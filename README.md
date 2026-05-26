@@ -59,8 +59,8 @@ conversation-evaluation-benchmark/
 ## Quick Start (One Command)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/conversation-evaluation-benchmark
-cd conversation-evaluation-benchmark
+git clone https://github.com/Srujan0798/conversation-evaluation-benckmark
+cd conversation-evaluation-benckmark
 cp .env.example .env
 docker-compose up --build
 ```
