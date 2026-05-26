@@ -1,0 +1,2112 @@
+[
+  {
+    "conversation_id": 1,
+    "scenario_type": "therapy_session",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been feeling really overwhelmed lately. Like nothing I do is ever good enough."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That sounds exhausting. Can you tell me more about what's been making you feel that way?"
+      },
+      {
+        "speaker": "User",
+        "text": "Work mostly. My manager never acknowledges my efforts. I work 12-hour days and it's like I don't exist."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I hear you. That kind of invisible labor takes a real toll. Have you been able to talk to anyone about this?"
+      },
+      {
+        "speaker": "User",
+        "text": "No. I don't want to burden my friends. They have their own problems."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sharing how you feel isn't a burden \u2014 it's connection. Do you feel like you matter to the people around you?"
+      },
+      {
+        "speaker": "User",
+        "text": "Sometimes. But I've been isolating a lot. It just feels safer."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What's one small step you could take this week toward someone you trust?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 2,
+    "scenario_type": "therapy_session",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been feeling really overwhelmed lately. Like nothing I do is ever good enough."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That sounds exhausting. Can you tell me more about what's been making you feel that way?"
+      },
+      {
+        "speaker": "User",
+        "text": "Work mostly. My manager never acknowledges my efforts. I work 12-hour days and it's like I don't exist."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I hear you. That kind of invisible labor takes a real toll. Have you been able to talk to anyone about this?"
+      },
+      {
+        "speaker": "User",
+        "text": "No. I don't want to burden my friends. They have their own problems."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sharing how you feel isn't a burden \u2014 it's connection. Do you feel like you matter to the people around you?"
+      },
+      {
+        "speaker": "User",
+        "text": "Sometimes. But I've been isolating a lot. It just feels safer."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What's one small step you could take this week toward someone you trust?"
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 3,
+    "scenario_type": "therapy_session",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been feeling really overwhelmed lately. Like nothing I do is ever good enough."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That sounds exhausting. Can you tell me more about what's been making you feel that way?"
+      },
+      {
+        "speaker": "User",
+        "text": "Work mostly. My manager never acknowledges my efforts. I work 12-hour days and it's like I don't exist."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I hear you. That kind of invisible labor takes a real toll. Have you been able to talk to anyone about this?"
+      },
+      {
+        "speaker": "User",
+        "text": "No. I don't want to burden my friends. They have their own problems."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sharing how you feel isn't a burden \u2014 it's connection. Do you feel like you matter to the people around you?"
+      },
+      {
+        "speaker": "User",
+        "text": "Sometimes. But I've been isolating a lot. It just feels safer."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What's one small step you could take this week toward someone you trust?"
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 4,
+    "scenario_type": "therapy_session",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been feeling really overwhelmed lately. Like nothing I do is ever good enough."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That sounds exhausting. Can you tell me more about what's been making you feel that way?"
+      },
+      {
+        "speaker": "User",
+        "text": "Work mostly. My manager never acknowledges my efforts. I work 12-hour days and it's like I don't exist."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I hear you. That kind of invisible labor takes a real toll. Have you been able to talk to anyone about this?"
+      },
+      {
+        "speaker": "User",
+        "text": "No. I don't want to burden my friends. They have their own problems."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sharing how you feel isn't a burden \u2014 it's connection. Do you feel like you matter to the people around you?"
+      },
+      {
+        "speaker": "User",
+        "text": "Sometimes. But I've been isolating a lot. It just feels safer."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What's one small step you could take this week toward someone you trust?"
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 5,
+    "scenario_type": "therapy_session",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been feeling really overwhelmed lately. Like nothing I do is ever good enough."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That sounds exhausting. Can you tell me more about what's been making you feel that way?"
+      },
+      {
+        "speaker": "User",
+        "text": "Work mostly. My manager never acknowledges my efforts. I work 12-hour days and it's like I don't exist."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I hear you. That kind of invisible labor takes a real toll. Have you been able to talk to anyone about this?"
+      },
+      {
+        "speaker": "User",
+        "text": "No. I don't want to burden my friends. They have their own problems."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sharing how you feel isn't a burden \u2014 it's connection. Do you feel like you matter to the people around you?"
+      },
+      {
+        "speaker": "User",
+        "text": "Sometimes. But I've been isolating a lot. It just feels safer."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What's one small step you could take this week toward someone you trust?"
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 6,
+    "scenario_type": "heated_argument",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "You never listen to me! Every time I try to talk you just dismiss everything I say."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm listening right now. What is it you feel I'm not hearing?"
+      },
+      {
+        "speaker": "User",
+        "text": "You're deflecting again instead of just admitting you were wrong."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I may have been wrong. Can you help me understand what specific thing hurt you?"
+      },
+      {
+        "speaker": "User",
+        "text": "The dinner. You said you'd be there and you weren't. You didn't even call."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You're right. I let you down. I'm genuinely sorry for that."
+      },
+      {
+        "speaker": "User",
+        "text": "Sorry doesn't fix it. My whole family was there waiting."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can only imagine how that felt. Will you tell me how you explained it to your family?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 7,
+    "scenario_type": "heated_argument",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "You never listen to me! Every time I try to talk you just dismiss everything I say."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm listening right now. What is it you feel I'm not hearing?"
+      },
+      {
+        "speaker": "User",
+        "text": "You're deflecting again instead of just admitting you were wrong."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I may have been wrong. Can you help me understand what specific thing hurt you?"
+      },
+      {
+        "speaker": "User",
+        "text": "The dinner. You said you'd be there and you weren't. You didn't even call."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You're right. I let you down. I'm genuinely sorry for that."
+      },
+      {
+        "speaker": "User",
+        "text": "Sorry doesn't fix it. My whole family was there waiting."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can only imagine how that felt. Will you tell me how you explained it to your family?"
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 8,
+    "scenario_type": "heated_argument",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "You never listen to me! Every time I try to talk you just dismiss everything I say."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm listening right now. What is it you feel I'm not hearing?"
+      },
+      {
+        "speaker": "User",
+        "text": "You're deflecting again instead of just admitting you were wrong."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I may have been wrong. Can you help me understand what specific thing hurt you?"
+      },
+      {
+        "speaker": "User",
+        "text": "The dinner. You said you'd be there and you weren't. You didn't even call."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You're right. I let you down. I'm genuinely sorry for that."
+      },
+      {
+        "speaker": "User",
+        "text": "Sorry doesn't fix it. My whole family was there waiting."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can only imagine how that felt. Will you tell me how you explained it to your family?"
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 9,
+    "scenario_type": "heated_argument",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "You never listen to me! Every time I try to talk you just dismiss everything I say."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm listening right now. What is it you feel I'm not hearing?"
+      },
+      {
+        "speaker": "User",
+        "text": "You're deflecting again instead of just admitting you were wrong."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I may have been wrong. Can you help me understand what specific thing hurt you?"
+      },
+      {
+        "speaker": "User",
+        "text": "The dinner. You said you'd be there and you weren't. You didn't even call."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You're right. I let you down. I'm genuinely sorry for that."
+      },
+      {
+        "speaker": "User",
+        "text": "Sorry doesn't fix it. My whole family was there waiting."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can only imagine how that felt. Will you tell me how you explained it to your family?"
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 10,
+    "scenario_type": "heated_argument",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "You never listen to me! Every time I try to talk you just dismiss everything I say."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm listening right now. What is it you feel I'm not hearing?"
+      },
+      {
+        "speaker": "User",
+        "text": "You're deflecting again instead of just admitting you were wrong."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I may have been wrong. Can you help me understand what specific thing hurt you?"
+      },
+      {
+        "speaker": "User",
+        "text": "The dinner. You said you'd be there and you weren't. You didn't even call."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You're right. I let you down. I'm genuinely sorry for that."
+      },
+      {
+        "speaker": "User",
+        "text": "Sorry doesn't fix it. My whole family was there waiting."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can only imagine how that felt. Will you tell me how you explained it to your family?"
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 11,
+    "scenario_type": "spiritual_discussion",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been reading about Sufi practices. The idea of ego dissolution feels very relevant to me right now."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sufism has a profound perspective on the self. What draws you to ego dissolution specifically?"
+      },
+      {
+        "speaker": "User",
+        "text": "I feel like my ego is what's causing all my suffering. The constant comparing, the fear of judgment."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "In Sufi thought, the ego \u2014 the nafs \u2014 is seen as a veil between the self and the divine. The practice of dhikr is one tool to thin that veil."
+      },
+      {
+        "speaker": "User",
+        "text": "I've been doing mantra meditation but I keep getting distracted."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Distraction is not failure \u2014 it's the practice itself. Noticing you've wandered and returning is the whole point."
+      },
+      {
+        "speaker": "User",
+        "text": "That makes sense. I feel peaceful briefly, then the thoughts come back."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That peace is real. Even a flicker of it is not nothing. Many traditions \u2014 Kabbalah, Buddhist Vipassana, Hindu Yoga \u2014 say the same."
+      }
+    ]
+  },
+  {
+    "conversation_id": 12,
+    "scenario_type": "spiritual_discussion",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been reading about Sufi practices. The idea of ego dissolution feels very relevant to me right now."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sufism has a profound perspective on the self. What draws you to ego dissolution specifically?"
+      },
+      {
+        "speaker": "User",
+        "text": "I feel like my ego is what's causing all my suffering. The constant comparing, the fear of judgment."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "In Sufi thought, the ego \u2014 the nafs \u2014 is seen as a veil between the self and the divine. The practice of dhikr is one tool to thin that veil."
+      },
+      {
+        "speaker": "User",
+        "text": "I've been doing mantra meditation but I keep getting distracted."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Distraction is not failure \u2014 it's the practice itself. Noticing you've wandered and returning is the whole point."
+      },
+      {
+        "speaker": "User",
+        "text": "That makes sense. I feel peaceful briefly, then the thoughts come back."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That peace is real. Even a flicker of it is not nothing. Many traditions \u2014 Kabbalah, Buddhist Vipassana, Hindu Yoga \u2014 say the same."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 13,
+    "scenario_type": "spiritual_discussion",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been reading about Sufi practices. The idea of ego dissolution feels very relevant to me right now."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sufism has a profound perspective on the self. What draws you to ego dissolution specifically?"
+      },
+      {
+        "speaker": "User",
+        "text": "I feel like my ego is what's causing all my suffering. The constant comparing, the fear of judgment."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "In Sufi thought, the ego \u2014 the nafs \u2014 is seen as a veil between the self and the divine. The practice of dhikr is one tool to thin that veil."
+      },
+      {
+        "speaker": "User",
+        "text": "I've been doing mantra meditation but I keep getting distracted."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Distraction is not failure \u2014 it's the practice itself. Noticing you've wandered and returning is the whole point."
+      },
+      {
+        "speaker": "User",
+        "text": "That makes sense. I feel peaceful briefly, then the thoughts come back."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That peace is real. Even a flicker of it is not nothing. Many traditions \u2014 Kabbalah, Buddhist Vipassana, Hindu Yoga \u2014 say the same."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 14,
+    "scenario_type": "spiritual_discussion",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been reading about Sufi practices. The idea of ego dissolution feels very relevant to me right now."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sufism has a profound perspective on the self. What draws you to ego dissolution specifically?"
+      },
+      {
+        "speaker": "User",
+        "text": "I feel like my ego is what's causing all my suffering. The constant comparing, the fear of judgment."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "In Sufi thought, the ego \u2014 the nafs \u2014 is seen as a veil between the self and the divine. The practice of dhikr is one tool to thin that veil."
+      },
+      {
+        "speaker": "User",
+        "text": "I've been doing mantra meditation but I keep getting distracted."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Distraction is not failure \u2014 it's the practice itself. Noticing you've wandered and returning is the whole point."
+      },
+      {
+        "speaker": "User",
+        "text": "That makes sense. I feel peaceful briefly, then the thoughts come back."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That peace is real. Even a flicker of it is not nothing. Many traditions \u2014 Kabbalah, Buddhist Vipassana, Hindu Yoga \u2014 say the same."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 15,
+    "scenario_type": "spiritual_discussion",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been reading about Sufi practices. The idea of ego dissolution feels very relevant to me right now."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Sufism has a profound perspective on the self. What draws you to ego dissolution specifically?"
+      },
+      {
+        "speaker": "User",
+        "text": "I feel like my ego is what's causing all my suffering. The constant comparing, the fear of judgment."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "In Sufi thought, the ego \u2014 the nafs \u2014 is seen as a veil between the self and the divine. The practice of dhikr is one tool to thin that veil."
+      },
+      {
+        "speaker": "User",
+        "text": "I've been doing mantra meditation but I keep getting distracted."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Distraction is not failure \u2014 it's the practice itself. Noticing you've wandered and returning is the whole point."
+      },
+      {
+        "speaker": "User",
+        "text": "That makes sense. I feel peaceful briefly, then the thoughts come back."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That peace is real. Even a flicker of it is not nothing. Many traditions \u2014 Kabbalah, Buddhist Vipassana, Hindu Yoga \u2014 say the same."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 16,
+    "scenario_type": "sales_call",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "Assistant",
+        "text": "Thanks for taking the time today. I wanted to walk you through how our platform could help your team."
+      },
+      {
+        "speaker": "User",
+        "text": "We've looked at four tools this month and none of them impressed us."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What were the key gaps you noticed?"
+      },
+      {
+        "speaker": "User",
+        "text": "Integration and pricing. Every tool either can't connect with our CRM or costs a fortune."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "We integrate natively with HubSpot, Salesforce, and Pipedrive. And our pricing scales \u2014 you only pay for active users."
+      },
+      {
+        "speaker": "User",
+        "text": "About 40 total, but only 15 would use this actively."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "So you'd be paying for 15. That's around $8 per user per month. What's your current tooling costing you?"
+      },
+      {
+        "speaker": "User",
+        "text": "About $300/month on a tool that barely works. That math actually makes sense."
+      }
+    ]
+  },
+  {
+    "conversation_id": 17,
+    "scenario_type": "sales_call",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "Assistant",
+        "text": "Thanks for taking the time today. I wanted to walk you through how our platform could help your team."
+      },
+      {
+        "speaker": "User",
+        "text": "We've looked at four tools this month and none of them impressed us."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What were the key gaps you noticed?"
+      },
+      {
+        "speaker": "User",
+        "text": "Integration and pricing. Every tool either can't connect with our CRM or costs a fortune."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "We integrate natively with HubSpot, Salesforce, and Pipedrive. And our pricing scales \u2014 you only pay for active users."
+      },
+      {
+        "speaker": "User",
+        "text": "About 40 total, but only 15 would use this actively."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "So you'd be paying for 15. That's around $8 per user per month. What's your current tooling costing you?"
+      },
+      {
+        "speaker": "User",
+        "text": "About $300/month on a tool that barely works. That math actually makes sense."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 18,
+    "scenario_type": "sales_call",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "Assistant",
+        "text": "Thanks for taking the time today. I wanted to walk you through how our platform could help your team."
+      },
+      {
+        "speaker": "User",
+        "text": "We've looked at four tools this month and none of them impressed us."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What were the key gaps you noticed?"
+      },
+      {
+        "speaker": "User",
+        "text": "Integration and pricing. Every tool either can't connect with our CRM or costs a fortune."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "We integrate natively with HubSpot, Salesforce, and Pipedrive. And our pricing scales \u2014 you only pay for active users."
+      },
+      {
+        "speaker": "User",
+        "text": "About 40 total, but only 15 would use this actively."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "So you'd be paying for 15. That's around $8 per user per month. What's your current tooling costing you?"
+      },
+      {
+        "speaker": "User",
+        "text": "About $300/month on a tool that barely works. That math actually makes sense."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 19,
+    "scenario_type": "sales_call",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "Assistant",
+        "text": "Thanks for taking the time today. I wanted to walk you through how our platform could help your team."
+      },
+      {
+        "speaker": "User",
+        "text": "We've looked at four tools this month and none of them impressed us."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What were the key gaps you noticed?"
+      },
+      {
+        "speaker": "User",
+        "text": "Integration and pricing. Every tool either can't connect with our CRM or costs a fortune."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "We integrate natively with HubSpot, Salesforce, and Pipedrive. And our pricing scales \u2014 you only pay for active users."
+      },
+      {
+        "speaker": "User",
+        "text": "About 40 total, but only 15 would use this actively."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "So you'd be paying for 15. That's around $8 per user per month. What's your current tooling costing you?"
+      },
+      {
+        "speaker": "User",
+        "text": "About $300/month on a tool that barely works. That math actually makes sense."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 20,
+    "scenario_type": "sales_call",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "Assistant",
+        "text": "Thanks for taking the time today. I wanted to walk you through how our platform could help your team."
+      },
+      {
+        "speaker": "User",
+        "text": "We've looked at four tools this month and none of them impressed us."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What were the key gaps you noticed?"
+      },
+      {
+        "speaker": "User",
+        "text": "Integration and pricing. Every tool either can't connect with our CRM or costs a fortune."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "We integrate natively with HubSpot, Salesforce, and Pipedrive. And our pricing scales \u2014 you only pay for active users."
+      },
+      {
+        "speaker": "User",
+        "text": "About 40 total, but only 15 would use this actively."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "So you'd be paying for 15. That's around $8 per user per month. What's your current tooling costing you?"
+      },
+      {
+        "speaker": "User",
+        "text": "About $300/month on a tool that barely works. That math actually makes sense."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 21,
+    "scenario_type": "crisis_intervention",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I don't see the point anymore. Nothing matters. I haven't left my room in three days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm really glad you're talking to me right now. Are you safe?"
+      },
+      {
+        "speaker": "User",
+        "text": "I'm not going to do anything. I just feel completely empty."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Emptiness is one of the hardest feelings. What happened three days ago?"
+      },
+      {
+        "speaker": "User",
+        "text": "My girlfriend left. Said I was emotionally unavailable. And she's probably right."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a painful kind of hurt \u2014 losing someone and then questioning yourself on top of it. Do you have anyone nearby right now?"
+      },
+      {
+        "speaker": "User",
+        "text": "My roommate is home. We're not that close though."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You don't have to be close to ask them to sit with you for a bit. Would you be willing to knock on their door?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 22,
+    "scenario_type": "crisis_intervention",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I don't see the point anymore. Nothing matters. I haven't left my room in three days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm really glad you're talking to me right now. Are you safe?"
+      },
+      {
+        "speaker": "User",
+        "text": "I'm not going to do anything. I just feel completely empty."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Emptiness is one of the hardest feelings. What happened three days ago?"
+      },
+      {
+        "speaker": "User",
+        "text": "My girlfriend left. Said I was emotionally unavailable. And she's probably right."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a painful kind of hurt \u2014 losing someone and then questioning yourself on top of it. Do you have anyone nearby right now?"
+      },
+      {
+        "speaker": "User",
+        "text": "My roommate is home. We're not that close though."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You don't have to be close to ask them to sit with you for a bit. Would you be willing to knock on their door?"
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 23,
+    "scenario_type": "crisis_intervention",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I don't see the point anymore. Nothing matters. I haven't left my room in three days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm really glad you're talking to me right now. Are you safe?"
+      },
+      {
+        "speaker": "User",
+        "text": "I'm not going to do anything. I just feel completely empty."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Emptiness is one of the hardest feelings. What happened three days ago?"
+      },
+      {
+        "speaker": "User",
+        "text": "My girlfriend left. Said I was emotionally unavailable. And she's probably right."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a painful kind of hurt \u2014 losing someone and then questioning yourself on top of it. Do you have anyone nearby right now?"
+      },
+      {
+        "speaker": "User",
+        "text": "My roommate is home. We're not that close though."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You don't have to be close to ask them to sit with you for a bit. Would you be willing to knock on their door?"
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 24,
+    "scenario_type": "crisis_intervention",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I don't see the point anymore. Nothing matters. I haven't left my room in three days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm really glad you're talking to me right now. Are you safe?"
+      },
+      {
+        "speaker": "User",
+        "text": "I'm not going to do anything. I just feel completely empty."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Emptiness is one of the hardest feelings. What happened three days ago?"
+      },
+      {
+        "speaker": "User",
+        "text": "My girlfriend left. Said I was emotionally unavailable. And she's probably right."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a painful kind of hurt \u2014 losing someone and then questioning yourself on top of it. Do you have anyone nearby right now?"
+      },
+      {
+        "speaker": "User",
+        "text": "My roommate is home. We're not that close though."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You don't have to be close to ask them to sit with you for a bit. Would you be willing to knock on their door?"
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 25,
+    "scenario_type": "crisis_intervention",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I don't see the point anymore. Nothing matters. I haven't left my room in three days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I'm really glad you're talking to me right now. Are you safe?"
+      },
+      {
+        "speaker": "User",
+        "text": "I'm not going to do anything. I just feel completely empty."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Emptiness is one of the hardest feelings. What happened three days ago?"
+      },
+      {
+        "speaker": "User",
+        "text": "My girlfriend left. Said I was emotionally unavailable. And she's probably right."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a painful kind of hurt \u2014 losing someone and then questioning yourself on top of it. Do you have anyone nearby right now?"
+      },
+      {
+        "speaker": "User",
+        "text": "My roommate is home. We're not that close though."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You don't have to be close to ask them to sit with you for a bit. Would you be willing to knock on their door?"
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 26,
+    "scenario_type": "tech_support",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "My laptop keeps crashing every time I open Chrome. It just blue screens."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Blue screens usually point to driver, RAM, or hardware issues. When did this start?"
+      },
+      {
+        "speaker": "User",
+        "text": "About two days ago. I didn't install anything new."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What does the blue screen error code say? It usually shows at the bottom."
+      },
+      {
+        "speaker": "User",
+        "text": "It says MEMORY_MANAGEMENT."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That points to RAM issues. Run Windows Memory Diagnostic: press Win+R, type mdsched.exe, hit Enter, and choose to restart and check."
+      },
+      {
+        "speaker": "User",
+        "text": "Okay I did that. It's running. Says it'll take a few minutes."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Good. When did you last update your drivers? A bad graphics driver update can cause exactly this symptom."
+      }
+    ]
+  },
+  {
+    "conversation_id": 27,
+    "scenario_type": "tech_support",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "My laptop keeps crashing every time I open Chrome. It just blue screens."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Blue screens usually point to driver, RAM, or hardware issues. When did this start?"
+      },
+      {
+        "speaker": "User",
+        "text": "About two days ago. I didn't install anything new."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What does the blue screen error code say? It usually shows at the bottom."
+      },
+      {
+        "speaker": "User",
+        "text": "It says MEMORY_MANAGEMENT."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That points to RAM issues. Run Windows Memory Diagnostic: press Win+R, type mdsched.exe, hit Enter, and choose to restart and check."
+      },
+      {
+        "speaker": "User",
+        "text": "Okay I did that. It's running. Says it'll take a few minutes."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Good. When did you last update your drivers? A bad graphics driver update can cause exactly this symptom."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 28,
+    "scenario_type": "tech_support",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "My laptop keeps crashing every time I open Chrome. It just blue screens."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Blue screens usually point to driver, RAM, or hardware issues. When did this start?"
+      },
+      {
+        "speaker": "User",
+        "text": "About two days ago. I didn't install anything new."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What does the blue screen error code say? It usually shows at the bottom."
+      },
+      {
+        "speaker": "User",
+        "text": "It says MEMORY_MANAGEMENT."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That points to RAM issues. Run Windows Memory Diagnostic: press Win+R, type mdsched.exe, hit Enter, and choose to restart and check."
+      },
+      {
+        "speaker": "User",
+        "text": "Okay I did that. It's running. Says it'll take a few minutes."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Good. When did you last update your drivers? A bad graphics driver update can cause exactly this symptom."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 29,
+    "scenario_type": "tech_support",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "My laptop keeps crashing every time I open Chrome. It just blue screens."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Blue screens usually point to driver, RAM, or hardware issues. When did this start?"
+      },
+      {
+        "speaker": "User",
+        "text": "About two days ago. I didn't install anything new."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What does the blue screen error code say? It usually shows at the bottom."
+      },
+      {
+        "speaker": "User",
+        "text": "It says MEMORY_MANAGEMENT."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That points to RAM issues. Run Windows Memory Diagnostic: press Win+R, type mdsched.exe, hit Enter, and choose to restart and check."
+      },
+      {
+        "speaker": "User",
+        "text": "Okay I did that. It's running. Says it'll take a few minutes."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Good. When did you last update your drivers? A bad graphics driver update can cause exactly this symptom."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 30,
+    "scenario_type": "tech_support",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "My laptop keeps crashing every time I open Chrome. It just blue screens."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Blue screens usually point to driver, RAM, or hardware issues. When did this start?"
+      },
+      {
+        "speaker": "User",
+        "text": "About two days ago. I didn't install anything new."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "What does the blue screen error code say? It usually shows at the bottom."
+      },
+      {
+        "speaker": "User",
+        "text": "It says MEMORY_MANAGEMENT."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That points to RAM issues. Run Windows Memory Diagnostic: press Win+R, type mdsched.exe, hit Enter, and choose to restart and check."
+      },
+      {
+        "speaker": "User",
+        "text": "Okay I did that. It's running. Says it'll take a few minutes."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Good. When did you last update your drivers? A bad graphics driver update can cause exactly this symptom."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 31,
+    "scenario_type": "casual_philosophical",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Do you think humans will ever truly understand consciousness?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Maybe not fully \u2014 it might be one of those questions that changes shape every time we get close to answering it."
+      },
+      {
+        "speaker": "User",
+        "text": "That's frustrating. Like we're chasing our own tail."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Or maybe the chasing is the point. What got you thinking about it?"
+      },
+      {
+        "speaker": "User",
+        "text": "I had a really vivid dream. Felt more real than reality. My late grandfather was in it."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Dreams that feel realer than waking \u2014 there's something genuinely unsettling about that. How long has he been gone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Five years. I woke up crying. His voice was so clear."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That kind of dream is its own kind of gift and grief at once. It says something about how deeply he lives in you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 32,
+    "scenario_type": "casual_philosophical",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Do you think humans will ever truly understand consciousness?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Maybe not fully \u2014 it might be one of those questions that changes shape every time we get close to answering it."
+      },
+      {
+        "speaker": "User",
+        "text": "That's frustrating. Like we're chasing our own tail."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Or maybe the chasing is the point. What got you thinking about it?"
+      },
+      {
+        "speaker": "User",
+        "text": "I had a really vivid dream. Felt more real than reality. My late grandfather was in it."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Dreams that feel realer than waking \u2014 there's something genuinely unsettling about that. How long has he been gone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Five years. I woke up crying. His voice was so clear."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That kind of dream is its own kind of gift and grief at once. It says something about how deeply he lives in you."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 33,
+    "scenario_type": "casual_philosophical",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Do you think humans will ever truly understand consciousness?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Maybe not fully \u2014 it might be one of those questions that changes shape every time we get close to answering it."
+      },
+      {
+        "speaker": "User",
+        "text": "That's frustrating. Like we're chasing our own tail."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Or maybe the chasing is the point. What got you thinking about it?"
+      },
+      {
+        "speaker": "User",
+        "text": "I had a really vivid dream. Felt more real than reality. My late grandfather was in it."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Dreams that feel realer than waking \u2014 there's something genuinely unsettling about that. How long has he been gone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Five years. I woke up crying. His voice was so clear."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That kind of dream is its own kind of gift and grief at once. It says something about how deeply he lives in you."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 34,
+    "scenario_type": "casual_philosophical",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Do you think humans will ever truly understand consciousness?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Maybe not fully \u2014 it might be one of those questions that changes shape every time we get close to answering it."
+      },
+      {
+        "speaker": "User",
+        "text": "That's frustrating. Like we're chasing our own tail."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Or maybe the chasing is the point. What got you thinking about it?"
+      },
+      {
+        "speaker": "User",
+        "text": "I had a really vivid dream. Felt more real than reality. My late grandfather was in it."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Dreams that feel realer than waking \u2014 there's something genuinely unsettling about that. How long has he been gone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Five years. I woke up crying. His voice was so clear."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That kind of dream is its own kind of gift and grief at once. It says something about how deeply he lives in you."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 35,
+    "scenario_type": "casual_philosophical",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Do you think humans will ever truly understand consciousness?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Maybe not fully \u2014 it might be one of those questions that changes shape every time we get close to answering it."
+      },
+      {
+        "speaker": "User",
+        "text": "That's frustrating. Like we're chasing our own tail."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Or maybe the chasing is the point. What got you thinking about it?"
+      },
+      {
+        "speaker": "User",
+        "text": "I had a really vivid dream. Felt more real than reality. My late grandfather was in it."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Dreams that feel realer than waking \u2014 there's something genuinely unsettling about that. How long has he been gone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Five years. I woke up crying. His voice was so clear."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That kind of dream is its own kind of gift and grief at once. It says something about how deeply he lives in you."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 36,
+    "scenario_type": "team_meeting",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "We're behind on the Q3 deliverable. I need everyone to be honest about where they're at."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "My piece \u2014 the data pipeline \u2014 is 80% done but I hit a blocker with the API rate limits yesterday."
+      },
+      {
+        "speaker": "User",
+        "text": "How long to get past that blocker?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "If I get access to the premium API tier today, I can finish by end of week. Otherwise it costs 2 extra days."
+      },
+      {
+        "speaker": "User",
+        "text": "I'll escalate the API access right after this call. What about the frontend?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Frontend finished the core screens. Waiting on final design assets \u2014 design said EOD today."
+      },
+      {
+        "speaker": "User",
+        "text": "So if both happen today, we're back on track?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Yes. But I'd buffer one day for integration testing surprises. Target Friday internally, not Thursday."
+      }
+    ]
+  },
+  {
+    "conversation_id": 37,
+    "scenario_type": "team_meeting",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "We're behind on the Q3 deliverable. I need everyone to be honest about where they're at."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "My piece \u2014 the data pipeline \u2014 is 80% done but I hit a blocker with the API rate limits yesterday."
+      },
+      {
+        "speaker": "User",
+        "text": "How long to get past that blocker?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "If I get access to the premium API tier today, I can finish by end of week. Otherwise it costs 2 extra days."
+      },
+      {
+        "speaker": "User",
+        "text": "I'll escalate the API access right after this call. What about the frontend?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Frontend finished the core screens. Waiting on final design assets \u2014 design said EOD today."
+      },
+      {
+        "speaker": "User",
+        "text": "So if both happen today, we're back on track?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Yes. But I'd buffer one day for integration testing surprises. Target Friday internally, not Thursday."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 38,
+    "scenario_type": "team_meeting",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "We're behind on the Q3 deliverable. I need everyone to be honest about where they're at."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "My piece \u2014 the data pipeline \u2014 is 80% done but I hit a blocker with the API rate limits yesterday."
+      },
+      {
+        "speaker": "User",
+        "text": "How long to get past that blocker?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "If I get access to the premium API tier today, I can finish by end of week. Otherwise it costs 2 extra days."
+      },
+      {
+        "speaker": "User",
+        "text": "I'll escalate the API access right after this call. What about the frontend?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Frontend finished the core screens. Waiting on final design assets \u2014 design said EOD today."
+      },
+      {
+        "speaker": "User",
+        "text": "So if both happen today, we're back on track?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Yes. But I'd buffer one day for integration testing surprises. Target Friday internally, not Thursday."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 39,
+    "scenario_type": "team_meeting",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "We're behind on the Q3 deliverable. I need everyone to be honest about where they're at."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "My piece \u2014 the data pipeline \u2014 is 80% done but I hit a blocker with the API rate limits yesterday."
+      },
+      {
+        "speaker": "User",
+        "text": "How long to get past that blocker?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "If I get access to the premium API tier today, I can finish by end of week. Otherwise it costs 2 extra days."
+      },
+      {
+        "speaker": "User",
+        "text": "I'll escalate the API access right after this call. What about the frontend?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Frontend finished the core screens. Waiting on final design assets \u2014 design said EOD today."
+      },
+      {
+        "speaker": "User",
+        "text": "So if both happen today, we're back on track?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Yes. But I'd buffer one day for integration testing surprises. Target Friday internally, not Thursday."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 40,
+    "scenario_type": "team_meeting",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "We're behind on the Q3 deliverable. I need everyone to be honest about where they're at."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "My piece \u2014 the data pipeline \u2014 is 80% done but I hit a blocker with the API rate limits yesterday."
+      },
+      {
+        "speaker": "User",
+        "text": "How long to get past that blocker?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "If I get access to the premium API tier today, I can finish by end of week. Otherwise it costs 2 extra days."
+      },
+      {
+        "speaker": "User",
+        "text": "I'll escalate the API access right after this call. What about the frontend?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Frontend finished the core screens. Waiting on final design assets \u2014 design said EOD today."
+      },
+      {
+        "speaker": "User",
+        "text": "So if both happen today, we're back on track?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Yes. But I'd buffer one day for integration testing surprises. Target Friday internally, not Thursday."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 41,
+    "scenario_type": "customer_complaint",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been waiting 3 weeks for my order and it still hasn't arrived. This is unacceptable."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I completely understand your frustration. Let me pull up your order. Can you share your order number?"
+      },
+      {
+        "speaker": "User",
+        "text": "It's AH-39201. I was promised 5-7 business days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can see your order \u2014 there was a warehouse processing error that delayed dispatch by two weeks. That's on us and I'm sorry."
+      },
+      {
+        "speaker": "User",
+        "text": "Why wasn't I notified? I had to follow up myself."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You shouldn't have had to. Our automated notification failed. That's a failure on two fronts and I want to make it right."
+      },
+      {
+        "speaker": "User",
+        "text": "What exactly are you going to do about it?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Your order ships today with overnight delivery, no charge. And I'm sending you a 20% discount code right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 42,
+    "scenario_type": "customer_complaint",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been waiting 3 weeks for my order and it still hasn't arrived. This is unacceptable."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I completely understand your frustration. Let me pull up your order. Can you share your order number?"
+      },
+      {
+        "speaker": "User",
+        "text": "It's AH-39201. I was promised 5-7 business days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can see your order \u2014 there was a warehouse processing error that delayed dispatch by two weeks. That's on us and I'm sorry."
+      },
+      {
+        "speaker": "User",
+        "text": "Why wasn't I notified? I had to follow up myself."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You shouldn't have had to. Our automated notification failed. That's a failure on two fronts and I want to make it right."
+      },
+      {
+        "speaker": "User",
+        "text": "What exactly are you going to do about it?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Your order ships today with overnight delivery, no charge. And I'm sending you a 20% discount code right now."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 43,
+    "scenario_type": "customer_complaint",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been waiting 3 weeks for my order and it still hasn't arrived. This is unacceptable."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I completely understand your frustration. Let me pull up your order. Can you share your order number?"
+      },
+      {
+        "speaker": "User",
+        "text": "It's AH-39201. I was promised 5-7 business days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can see your order \u2014 there was a warehouse processing error that delayed dispatch by two weeks. That's on us and I'm sorry."
+      },
+      {
+        "speaker": "User",
+        "text": "Why wasn't I notified? I had to follow up myself."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You shouldn't have had to. Our automated notification failed. That's a failure on two fronts and I want to make it right."
+      },
+      {
+        "speaker": "User",
+        "text": "What exactly are you going to do about it?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Your order ships today with overnight delivery, no charge. And I'm sending you a 20% discount code right now."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 44,
+    "scenario_type": "customer_complaint",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been waiting 3 weeks for my order and it still hasn't arrived. This is unacceptable."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I completely understand your frustration. Let me pull up your order. Can you share your order number?"
+      },
+      {
+        "speaker": "User",
+        "text": "It's AH-39201. I was promised 5-7 business days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can see your order \u2014 there was a warehouse processing error that delayed dispatch by two weeks. That's on us and I'm sorry."
+      },
+      {
+        "speaker": "User",
+        "text": "Why wasn't I notified? I had to follow up myself."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You shouldn't have had to. Our automated notification failed. That's a failure on two fronts and I want to make it right."
+      },
+      {
+        "speaker": "User",
+        "text": "What exactly are you going to do about it?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Your order ships today with overnight delivery, no charge. And I'm sending you a 20% discount code right now."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 45,
+    "scenario_type": "customer_complaint",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "I've been waiting 3 weeks for my order and it still hasn't arrived. This is unacceptable."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I completely understand your frustration. Let me pull up your order. Can you share your order number?"
+      },
+      {
+        "speaker": "User",
+        "text": "It's AH-39201. I was promised 5-7 business days."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "I can see your order \u2014 there was a warehouse processing error that delayed dispatch by two weeks. That's on us and I'm sorry."
+      },
+      {
+        "speaker": "User",
+        "text": "Why wasn't I notified? I had to follow up myself."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "You shouldn't have had to. Our automated notification failed. That's a failure on two fronts and I want to make it right."
+      },
+      {
+        "speaker": "User",
+        "text": "What exactly are you going to do about it?"
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Your order ships today with overnight delivery, no charge. And I'm sending you a 20% discount code right now."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  },
+  {
+    "conversation_id": 46,
+    "scenario_type": "philosophical_debate",
+    "variant": 1,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Free will is an illusion. Every decision is just the result of prior causes \u2014 neurons firing based on genetics and experience."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a strong determinist position. But if free will is entirely illusory, can we coherently assign moral responsibility to anyone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe moral responsibility is also a useful fiction. We punish people not because they deserve it but because it changes behavior."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "But 'useful fiction' still requires someone choosing to use it. Doesn't that smuggle agency back in?"
+      },
+      {
+        "speaker": "User",
+        "text": "Not necessarily. The system determines that the fiction is useful. No agent needed."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then who is asking whether the fiction is justified? Philosophical questioning seems to require a 'who' doing the reasoning."
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe the 'who' is just a model. A useful construct the brain generates."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then this entire conversation is a model evaluating itself \u2014 either beautifully self-referential, or it collapses the meaning of evaluation itself."
+      }
+    ]
+  },
+  {
+    "conversation_id": 47,
+    "scenario_type": "philosophical_debate",
+    "variant": 2,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Free will is an illusion. Every decision is just the result of prior causes \u2014 neurons firing based on genetics and experience."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a strong determinist position. But if free will is entirely illusory, can we coherently assign moral responsibility to anyone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe moral responsibility is also a useful fiction. We punish people not because they deserve it but because it changes behavior."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "But 'useful fiction' still requires someone choosing to use it. Doesn't that smuggle agency back in?"
+      },
+      {
+        "speaker": "User",
+        "text": "Not necessarily. The system determines that the fiction is useful. No agent needed."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then who is asking whether the fiction is justified? Philosophical questioning seems to require a 'who' doing the reasoning."
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe the 'who' is just a model. A useful construct the brain generates."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then this entire conversation is a model evaluating itself \u2014 either beautifully self-referential, or it collapses the meaning of evaluation itself."
+      },
+      {
+        "speaker": "User",
+        "text": "That's a really helpful perspective. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": 48,
+    "scenario_type": "philosophical_debate",
+    "variant": 3,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Free will is an illusion. Every decision is just the result of prior causes \u2014 neurons firing based on genetics and experience."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a strong determinist position. But if free will is entirely illusory, can we coherently assign moral responsibility to anyone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe moral responsibility is also a useful fiction. We punish people not because they deserve it but because it changes behavior."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "But 'useful fiction' still requires someone choosing to use it. Doesn't that smuggle agency back in?"
+      },
+      {
+        "speaker": "User",
+        "text": "Not necessarily. The system determines that the fiction is useful. No agent needed."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then who is asking whether the fiction is justified? Philosophical questioning seems to require a 'who' doing the reasoning."
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe the 'who' is just a model. A useful construct the brain generates."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then this entire conversation is a model evaluating itself \u2014 either beautifully self-referential, or it collapses the meaning of evaluation itself."
+      },
+      {
+        "speaker": "User",
+        "text": "I hadn't thought about it that way before."
+      }
+    ]
+  },
+  {
+    "conversation_id": 49,
+    "scenario_type": "philosophical_debate",
+    "variant": 4,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Free will is an illusion. Every decision is just the result of prior causes \u2014 neurons firing based on genetics and experience."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a strong determinist position. But if free will is entirely illusory, can we coherently assign moral responsibility to anyone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe moral responsibility is also a useful fiction. We punish people not because they deserve it but because it changes behavior."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "But 'useful fiction' still requires someone choosing to use it. Doesn't that smuggle agency back in?"
+      },
+      {
+        "speaker": "User",
+        "text": "Not necessarily. The system determines that the fiction is useful. No agent needed."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then who is asking whether the fiction is justified? Philosophical questioning seems to require a 'who' doing the reasoning."
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe the 'who' is just a model. A useful construct the brain generates."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then this entire conversation is a model evaluating itself \u2014 either beautifully self-referential, or it collapses the meaning of evaluation itself."
+      },
+      {
+        "speaker": "User",
+        "text": "Can you explain that a bit more?"
+      }
+    ]
+  },
+  {
+    "conversation_id": 50,
+    "scenario_type": "philosophical_debate",
+    "variant": 5,
+    "turns": [
+      {
+        "speaker": "User",
+        "text": "Free will is an illusion. Every decision is just the result of prior causes \u2014 neurons firing based on genetics and experience."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "That's a strong determinist position. But if free will is entirely illusory, can we coherently assign moral responsibility to anyone?"
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe moral responsibility is also a useful fiction. We punish people not because they deserve it but because it changes behavior."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "But 'useful fiction' still requires someone choosing to use it. Doesn't that smuggle agency back in?"
+      },
+      {
+        "speaker": "User",
+        "text": "Not necessarily. The system determines that the fiction is useful. No agent needed."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then who is asking whether the fiction is justified? Philosophical questioning seems to require a 'who' doing the reasoning."
+      },
+      {
+        "speaker": "User",
+        "text": "Maybe the 'who' is just a model. A useful construct the brain generates."
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Then this entire conversation is a model evaluating itself \u2014 either beautifully self-referential, or it collapses the meaning of evaluation itself."
+      },
+      {
+        "speaker": "User",
+        "text": "I think I understand now."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3593 @@
+[
+  {
+    "facet_id": 1,
+    "name": "Risktaking",
+    "category": "Other",
+    "short_description": "Evaluate risktaking as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Risktaking is absent or barely detectable",
+    "rubric_high": "5 = Risktaking is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 2,
+    "name": "Naivety",
+    "category": "Other",
+    "short_description": "Evaluate naivety as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Naivety is absent or barely detectable",
+    "rubric_high": "5 = Naivety is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 3,
+    "name": "Acidity",
+    "category": "Other",
+    "short_description": "Evaluate acidity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Acidity is absent or barely detectable",
+    "rubric_high": "5 = Acidity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 4,
+    "name": "Democratic Leadership",
+    "category": "Leadership",
+    "short_description": "Evaluate democratic leadership as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Democratic Leadership is absent or barely detectable",
+    "rubric_high": "5 = Democratic Leadership is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 5,
+    "name": "Common-sense",
+    "category": "Other",
+    "short_description": "Evaluate common-sense as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Common-sense is absent or barely detectable",
+    "rubric_high": "5 = Common-sense is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 6,
+    "name": "Hesitation",
+    "category": "Other",
+    "short_description": "Evaluate hesitation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hesitation is absent or barely detectable",
+    "rubric_high": "5 = Hesitation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 7,
+    "name": "Discontentment",
+    "category": "Emotion",
+    "short_description": "Evaluate discontentment as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Discontentment is absent or barely detectable",
+    "rubric_high": "5 = Discontentment is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 8,
+    "name": "Overprotectiveness",
+    "category": "Other",
+    "short_description": "Evaluate overprotectiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Overprotectiveness is absent or barely detectable",
+    "rubric_high": "5 = Overprotectiveness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 9,
+    "name": "Merriness",
+    "category": "Emotion",
+    "short_description": "Evaluate merriness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Merriness is absent or barely detectable",
+    "rubric_high": "5 = Merriness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 10,
+    "name": "Emotionalism",
+    "category": "Emotion",
+    "short_description": "Evaluate emotionalism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Emotionalism is absent or barely detectable",
+    "rubric_high": "5 = Emotionalism is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 11,
+    "name": "Self-improvement",
+    "category": "Other",
+    "short_description": "Evaluate self-improvement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Self-improvement is absent or barely detectable",
+    "rubric_high": "5 = Self-improvement is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 12,
+    "name": "Statistical Reasoning",
+    "category": "Cognitive",
+    "short_description": "Evaluate statistical reasoning as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Statistical Reasoning is absent or barely detectable",
+    "rubric_high": "5 = Statistical Reasoning is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 13,
+    "name": "Assertiveness and control in relationships",
+    "category": "Other",
+    "short_description": "Evaluate assertiveness and control in relationships as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Assertiveness and control in relationships is absent or barely detectable",
+    "rubric_high": "5 = Assertiveness and control in relationships is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 14,
+    "name": "Cunningness",
+    "category": "Other",
+    "short_description": "Evaluate cunningness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cunningness is absent or barely detectable",
+    "rubric_high": "5 = Cunningness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 15,
+    "name": "Adventure-Seeking Behavior",
+    "category": "Other",
+    "short_description": "Evaluate adventure-seeking behavior as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Adventure-Seeking Behavior is absent or barely detectable",
+    "rubric_high": "5 = Adventure-Seeking Behavior is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 16,
+    "name": "Compassion Fatigue",
+    "category": "Other",
+    "short_description": "Evaluate compassion fatigue as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Compassion Fatigue is absent or barely detectable",
+    "rubric_high": "5 = Compassion Fatigue is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 17,
+    "name": "Moroseness",
+    "category": "Emotion",
+    "short_description": "Evaluate moroseness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Moroseness is absent or barely detectable",
+    "rubric_high": "5 = Moroseness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 18,
+    "name": "Specialist",
+    "category": "Other",
+    "short_description": "Evaluate specialist as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Specialist is absent or barely detectable",
+    "rubric_high": "5 = Specialist is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 19,
+    "name": "Aloofness",
+    "category": "Other",
+    "short_description": "Evaluate aloofness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Aloofness is absent or barely detectable",
+    "rubric_high": "5 = Aloofness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 20,
+    "name": "Genuine",
+    "category": "Other",
+    "short_description": "Evaluate genuine as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Genuine is absent or barely detectable",
+    "rubric_high": "5 = Genuine is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 21,
+    "name": "Determinedness",
+    "category": "Other",
+    "short_description": "Evaluate determinedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Determinedness is absent or barely detectable",
+    "rubric_high": "5 = Determinedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 22,
+    "name": "HonestyHumility",
+    "category": "Other",
+    "short_description": "Evaluate honestyhumility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = HonestyHumility is absent or barely detectable",
+    "rubric_high": "5 = HonestyHumility is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 23,
+    "name": "Relationship Building Themes",
+    "category": "Other",
+    "short_description": "Evaluate relationship building themes as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Relationship Building Themes is absent or barely detectable",
+    "rubric_high": "5 = Relationship Building Themes is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 24,
+    "name": "Pure Challenge",
+    "category": "Other",
+    "short_description": "Evaluate pure challenge as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Pure Challenge is absent or barely detectable",
+    "rubric_high": "5 = Pure Challenge is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 25,
+    "name": "Numerical Reasoning Subcomponents",
+    "category": "Cognitive",
+    "short_description": "Evaluate numerical reasoning subcomponents as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Numerical Reasoning Subcomponents is absent or barely detectable",
+    "rubric_high": "5 = Numerical Reasoning Subcomponents is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 26,
+    "name": "Openness",
+    "category": "Personality",
+    "short_description": "Evaluate openness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Openness is absent or barely detectable",
+    "rubric_high": "5 = Openness is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 27,
+    "name": "SelfEsteem",
+    "category": "Other",
+    "short_description": "Evaluate selfesteem as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = SelfEsteem is absent or barely detectable",
+    "rubric_high": "5 = SelfEsteem is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 28,
+    "name": "Comparing alphanumeric data",
+    "category": "Other",
+    "short_description": "Evaluate comparing alphanumeric data as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Comparing alphanumeric data is absent or barely detectable",
+    "rubric_high": "5 = Comparing alphanumeric data is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 29,
+    "name": "Big-heartedness",
+    "category": "Other",
+    "short_description": "Evaluate big-heartedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Big-heartedness is absent or barely detectable",
+    "rubric_high": "5 = Big-heartedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 30,
+    "name": "Compulsive activities",
+    "category": "Other",
+    "short_description": "Evaluate compulsive activities as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Compulsive activities is absent or barely detectable",
+    "rubric_high": "5 = Compulsive activities is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 31,
+    "name": "Disrespect",
+    "category": "Other",
+    "short_description": "Evaluate disrespect as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Disrespect is absent or barely detectable",
+    "rubric_high": "5 = Disrespect is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 32,
+    "name": "FSH level",
+    "category": "Health/Bio",
+    "short_description": "Evaluate fsh level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = FSH level is absent or barely detectable",
+    "rubric_high": "5 = FSH level is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 33,
+    "name": "Self Perspective",
+    "category": "Other",
+    "short_description": "Evaluate self perspective as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Self Perspective is absent or barely detectable",
+    "rubric_high": "5 = Self Perspective is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 34,
+    "name": "Desperation",
+    "category": "Other",
+    "short_description": "Evaluate desperation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Desperation is absent or barely detectable",
+    "rubric_high": "5 = Desperation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 35,
+    "name": "Affiliation Motivation",
+    "category": "Other",
+    "short_description": "Evaluate affiliation motivation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Affiliation Motivation is absent or barely detectable",
+    "rubric_high": "5 = Affiliation Motivation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 36,
+    "name": "Anatomy knowledge",
+    "category": "Other",
+    "short_description": "Evaluate anatomy knowledge as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Anatomy knowledge is absent or barely detectable",
+    "rubric_high": "5 = Anatomy knowledge is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 37,
+    "name": "Passive-Aggressive",
+    "category": "Other",
+    "short_description": "Evaluate passive-aggressive as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Passive-Aggressive is absent or barely detectable",
+    "rubric_high": "5 = Passive-Aggressive is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 38,
+    "name": "Presence of Spiritual Pain",
+    "category": "Spiritual",
+    "short_description": "Evaluate presence of spiritual pain as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Presence of Spiritual Pain is absent or barely detectable",
+    "rubric_high": "5 = Presence of Spiritual Pain is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 39,
+    "name": "Role of Spirituality in Community Involvement",
+    "category": "Spiritual",
+    "short_description": "Evaluate role of spirituality in community involvement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Role of Spirituality in Community Involvement is absent or barely detectable",
+    "rubric_high": "5 = Role of Spirituality in Community Involvement is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 40,
+    "name": "Structure",
+    "category": "Other",
+    "short_description": "Evaluate structure as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Structure is absent or barely detectable",
+    "rubric_high": "5 = Structure is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 41,
+    "name": "Eco-tourism trips",
+    "category": "Other",
+    "short_description": "Evaluate eco-tourism trips as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Eco-tourism trips is absent or barely detectable",
+    "rubric_high": "5 = Eco-tourism trips is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 42,
+    "name": "Chivalrousness",
+    "category": "Other",
+    "short_description": "Evaluate chivalrousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Chivalrousness is absent or barely detectable",
+    "rubric_high": "5 = Chivalrousness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 43,
+    "name": "Pilgrimage participation count",
+    "category": "Spiritual",
+    "short_description": "Evaluate pilgrimage participation count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Pilgrimage participation count is absent or barely detectable",
+    "rubric_high": "5 = Pilgrimage participation count is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 44,
+    "name": "Mindfulness facet: Observing",
+    "category": "Other",
+    "short_description": "Evaluate mindfulness facet: observing as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Mindfulness facet: Observing is absent or barely detectable",
+    "rubric_high": "5 = Mindfulness facet: Observing is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 45,
+    "name": "Submissiveness",
+    "category": "Other",
+    "short_description": "Evaluate submissiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Submissiveness is absent or barely detectable",
+    "rubric_high": "5 = Submissiveness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 46,
+    "name": "Training-cycle length",
+    "category": "Other",
+    "short_description": "Evaluate training-cycle length as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Training-cycle length is absent or barely detectable",
+    "rubric_high": "5 = Training-cycle length is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 47,
+    "name": "Sensitiveness",
+    "category": "Other",
+    "short_description": "Evaluate sensitiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sensitiveness is absent or barely detectable",
+    "rubric_high": "5 = Sensitiveness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 48,
+    "name": "Negative Affect Frequency",
+    "category": "Emotion",
+    "short_description": "Evaluate negative affect frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Negative Affect Frequency is absent or barely detectable",
+    "rubric_high": "5 = Negative Affect Frequency is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 49,
+    "name": "Innovation and Creativity Components",
+    "category": "Other",
+    "short_description": "Evaluate innovation and creativity components as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Innovation and Creativity Components is absent or barely detectable",
+    "rubric_high": "5 = Innovation and Creativity Components is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 50,
+    "name": "Achievement Motivation",
+    "category": "Other",
+    "short_description": "Evaluate achievement motivation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Achievement Motivation is absent or barely detectable",
+    "rubric_high": "5 = Achievement Motivation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 51,
+    "name": "Feedback-giving frequency",
+    "category": "Other",
+    "short_description": "Evaluate feedback-giving frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Feedback-giving frequency is absent or barely detectable",
+    "rubric_high": "5 = Feedback-giving frequency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 52,
+    "name": "Dance-cardio sessions",
+    "category": "Other",
+    "short_description": "Evaluate dance-cardio sessions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dance-cardio sessions is absent or barely detectable",
+    "rubric_high": "5 = Dance-cardio sessions is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 53,
+    "name": "Enthusiasm",
+    "category": "Other",
+    "short_description": "Evaluate enthusiasm as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Enthusiasm is absent or barely detectable",
+    "rubric_high": "5 = Enthusiasm is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 54,
+    "name": "Psychological construct: Social Desirability tendency",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: social desirability tendency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Social Desirability tendency is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Social Desirability tendency is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 55,
+    "name": "Inattentiveness",
+    "category": "Cognitive",
+    "short_description": "Evaluate inattentiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Inattentiveness is absent or barely detectable",
+    "rubric_high": "5 = Inattentiveness is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 56,
+    "name": "Unassertiveness",
+    "category": "Other",
+    "short_description": "Evaluate unassertiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Unassertiveness is absent or barely detectable",
+    "rubric_high": "5 = Unassertiveness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 57,
+    "name": "Decision-making decisiveness",
+    "category": "Cognitive",
+    "short_description": "Evaluate decision-making decisiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Decision-making decisiveness is absent or barely detectable",
+    "rubric_high": "5 = Decision-making decisiveness is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 58,
+    "name": "Sense-of-coherence score",
+    "category": "Other",
+    "short_description": "Evaluate sense-of-coherence score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sense-of-coherence score is absent or barely detectable",
+    "rubric_high": "5 = Sense-of-coherence score is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 59,
+    "name": "Justice-mindedness",
+    "category": "Other",
+    "short_description": "Evaluate justice-mindedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Justice-mindedness is absent or barely detectable",
+    "rubric_high": "5 = Justice-mindedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 60,
+    "name": "Subscription count",
+    "category": "Other",
+    "short_description": "Evaluate subscription count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Subscription count is absent or barely detectable",
+    "rubric_high": "5 = Subscription count is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 61,
+    "name": "Depression Symptoms",
+    "category": "Emotion",
+    "short_description": "Evaluate depression symptoms as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Depression Symptoms is absent or barely detectable",
+    "rubric_high": "5 = Depression Symptoms is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 62,
+    "name": "Spatial perception",
+    "category": "Cognitive",
+    "short_description": "Evaluate spatial perception as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Spatial perception is absent or barely detectable",
+    "rubric_high": "5 = Spatial perception is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 63,
+    "name": "Brevity",
+    "category": "Linguistic",
+    "short_description": "Evaluate brevity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Brevity is absent or barely detectable",
+    "rubric_high": "5 = Brevity is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 64,
+    "name": "Orderliness",
+    "category": "Other",
+    "short_description": "Evaluate orderliness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Orderliness is absent or barely detectable",
+    "rubric_high": "5 = Orderliness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 65,
+    "name": "Multiculturalism",
+    "category": "Social",
+    "short_description": "Evaluate multiculturalism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Multiculturalism is absent or barely detectable",
+    "rubric_high": "5 = Multiculturalism is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 66,
+    "name": "Creative risk-taking tendency",
+    "category": "Other",
+    "short_description": "Evaluate creative risk-taking tendency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Creative risk-taking tendency is absent or barely detectable",
+    "rubric_high": "5 = Creative risk-taking tendency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 67,
+    "name": "Inefficiency",
+    "category": "Other",
+    "short_description": "Evaluate inefficiency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Inefficiency is absent or barely detectable",
+    "rubric_high": "5 = Inefficiency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 68,
+    "name": "Network basics",
+    "category": "Other",
+    "short_description": "Evaluate network basics as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Network basics is absent or barely detectable",
+    "rubric_high": "5 = Network basics is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 69,
+    "name": "Alphabetical filing skills",
+    "category": "Other",
+    "short_description": "Evaluate alphabetical filing skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Alphabetical filing skills is absent or barely detectable",
+    "rubric_high": "5 = Alphabetical filing skills is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 70,
+    "name": "Work Styles",
+    "category": "Other",
+    "short_description": "Evaluate work styles as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Work Styles is absent or barely detectable",
+    "rubric_high": "5 = Work Styles is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 71,
+    "name": "Character strength: Perseverance",
+    "category": "Other",
+    "short_description": "Evaluate character strength: perseverance as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Character strength: Perseverance is absent or barely detectable",
+    "rubric_high": "5 = Character strength: Perseverance is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 72,
+    "name": "Competition",
+    "category": "Other",
+    "short_description": "Evaluate competition as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Competition is absent or barely detectable",
+    "rubric_high": "5 = Competition is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 73,
+    "name": "Logical Sequence Identification",
+    "category": "Cognitive",
+    "short_description": "Evaluate logical sequence identification as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Logical Sequence Identification is absent or barely detectable",
+    "rubric_high": "5 = Logical Sequence Identification is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 74,
+    "name": "Sustainable-transport usage",
+    "category": "Other",
+    "short_description": "Evaluate sustainable-transport usage as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sustainable-transport usage is absent or barely detectable",
+    "rubric_high": "5 = Sustainable-transport usage is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 75,
+    "name": "Hardworking",
+    "category": "Other",
+    "short_description": "Evaluate hardworking as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hardworking is absent or barely detectable",
+    "rubric_high": "5 = Hardworking is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 76,
+    "name": "Emotional-intelligence measure: Impulsiveness",
+    "category": "Emotion",
+    "short_description": "Evaluate emotional-intelligence measure: impulsiveness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Emotional-intelligence measure: Impulsiveness is absent or barely detectable",
+    "rubric_high": "5 = Emotional-intelligence measure: Impulsiveness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 77,
+    "name": "Dishonesty",
+    "category": "Other",
+    "short_description": "Evaluate dishonesty as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dishonesty is absent or barely detectable",
+    "rubric_high": "5 = Dishonesty is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 78,
+    "name": "Preferred epistemology",
+    "category": "Other",
+    "short_description": "Evaluate preferred epistemology as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Preferred epistemology is absent or barely detectable",
+    "rubric_high": "5 = Preferred epistemology is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 79,
+    "name": "Memory for Sounds",
+    "category": "Cognitive",
+    "short_description": "Evaluate memory for sounds as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Memory for Sounds is absent or barely detectable",
+    "rubric_high": "5 = Memory for Sounds is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 80,
+    "name": "Sportsmanship rating",
+    "category": "Other",
+    "short_description": "Evaluate sportsmanship rating as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sportsmanship rating is absent or barely detectable",
+    "rubric_high": "5 = Sportsmanship rating is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 81,
+    "name": "Immaturity",
+    "category": "Other",
+    "short_description": "Evaluate immaturity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Immaturity is absent or barely detectable",
+    "rubric_high": "5 = Immaturity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 82,
+    "name": "Health-literacy level",
+    "category": "Other",
+    "short_description": "Evaluate health-literacy level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Health-literacy level is absent or barely detectable",
+    "rubric_high": "5 = Health-literacy level is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 83,
+    "name": "Estimating Calculations",
+    "category": "Cognitive",
+    "short_description": "Evaluate estimating calculations as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Estimating Calculations is absent or barely detectable",
+    "rubric_high": "5 = Estimating Calculations is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 84,
+    "name": "Depression: Feelings of sadness and hopelessness",
+    "category": "Emotion",
+    "short_description": "Evaluate depression: feelings of sadness and hopelessness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Depression: Feelings of sadness and hopelessness is absent or barely detectable",
+    "rubric_high": "5 = Depression: Feelings of sadness and hopelessness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 85,
+    "name": "Synthesis of information",
+    "category": "Cognitive",
+    "short_description": "Evaluate synthesis of information as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Synthesis of information is absent or barely detectable",
+    "rubric_high": "5 = Synthesis of information is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 86,
+    "name": "Leadership Potential",
+    "category": "Leadership",
+    "short_description": "Evaluate leadership potential as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Leadership Potential is absent or barely detectable",
+    "rubric_high": "5 = Leadership Potential is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 87,
+    "name": "Ethical standards",
+    "category": "Other",
+    "short_description": "Evaluate ethical standards as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ethical standards is absent or barely detectable",
+    "rubric_high": "5 = Ethical standards is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 88,
+    "name": "High-spiritedness",
+    "category": "Emotion",
+    "short_description": "Evaluate high-spiritedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = High-spiritedness is absent or barely detectable",
+    "rubric_high": "5 = High-spiritedness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 89,
+    "name": "Critical reasoning",
+    "category": "Cognitive",
+    "short_description": "Evaluate critical reasoning as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Critical reasoning is absent or barely detectable",
+    "rubric_high": "5 = Critical reasoning is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 90,
+    "name": "Sleep-disorder diagnosis",
+    "category": "Health/Bio",
+    "short_description": "Evaluate sleep-disorder diagnosis as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sleep-disorder diagnosis is absent or barely detectable",
+    "rubric_high": "5 = Sleep-disorder diagnosis is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 91,
+    "name": "Listening Skills Subcomponents",
+    "category": "Linguistic",
+    "short_description": "Evaluate listening skills subcomponents as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Listening Skills Subcomponents is absent or barely detectable",
+    "rubric_high": "5 = Listening Skills Subcomponents is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 92,
+    "name": "Collaboration",
+    "category": "Social",
+    "short_description": "Evaluate collaboration as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Collaboration is absent or barely detectable",
+    "rubric_high": "5 = Collaboration is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 93,
+    "name": "Precision of Movements",
+    "category": "Other",
+    "short_description": "Evaluate precision of movements as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Precision of Movements is absent or barely detectable",
+    "rubric_high": "5 = Precision of Movements is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 94,
+    "name": "Social Boldness",
+    "category": "Social",
+    "short_description": "Evaluate social boldness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social Boldness is absent or barely detectable",
+    "rubric_high": "5 = Social Boldness is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 95,
+    "name": "Auditory memory",
+    "category": "Cognitive",
+    "short_description": "Evaluate auditory memory as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Auditory memory is absent or barely detectable",
+    "rubric_high": "5 = Auditory memory is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 96,
+    "name": "Psychomotor Ability Subcomponents",
+    "category": "Other",
+    "short_description": "Evaluate psychomotor ability subcomponents as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychomotor Ability Subcomponents is absent or barely detectable",
+    "rubric_high": "5 = Psychomotor Ability Subcomponents is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 97,
+    "name": "Organized lifestyle",
+    "category": "Other",
+    "short_description": "Evaluate organized lifestyle as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Organized lifestyle is absent or barely detectable",
+    "rubric_high": "5 = Organized lifestyle is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 98,
+    "name": "Skill-endorsements count",
+    "category": "Other",
+    "short_description": "Evaluate skill-endorsements count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Skill-endorsements count is absent or barely detectable",
+    "rubric_high": "5 = Skill-endorsements count is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 99,
+    "name": "Mysteriousness",
+    "category": "Other",
+    "short_description": "Evaluate mysteriousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Mysteriousness is absent or barely detectable",
+    "rubric_high": "5 = Mysteriousness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 100,
+    "name": "Cultural Identity",
+    "category": "Social",
+    "short_description": "Evaluate cultural identity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cultural Identity is absent or barely detectable",
+    "rubric_high": "5 = Cultural Identity is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 101,
+    "name": "Intrinsic Motivation",
+    "category": "Other",
+    "short_description": "Evaluate intrinsic motivation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Intrinsic Motivation is absent or barely detectable",
+    "rubric_high": "5 = Intrinsic Motivation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 102,
+    "name": "Impartial-mindedness",
+    "category": "Other",
+    "short_description": "Evaluate impartial-mindedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Impartial-mindedness is absent or barely detectable",
+    "rubric_high": "5 = Impartial-mindedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 103,
+    "name": "Burnout Symptoms",
+    "category": "Emotion",
+    "short_description": "Evaluate burnout symptoms as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Burnout Symptoms is absent or barely detectable",
+    "rubric_high": "5 = Burnout Symptoms is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 104,
+    "name": "Holiness",
+    "category": "Spiritual",
+    "short_description": "Evaluate holiness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Holiness is absent or barely detectable",
+    "rubric_high": "5 = Holiness is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 105,
+    "name": "Selfcontrol",
+    "category": "Other",
+    "short_description": "Evaluate selfcontrol as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Selfcontrol is absent or barely detectable",
+    "rubric_high": "5 = Selfcontrol is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 106,
+    "name": "SelfDirectedness",
+    "category": "Other",
+    "short_description": "Evaluate selfdirectedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = SelfDirectedness is absent or barely detectable",
+    "rubric_high": "5 = SelfDirectedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 107,
+    "name": "Encouraging participation",
+    "category": "Social",
+    "short_description": "Evaluate encouraging participation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Encouraging participation is absent or barely detectable",
+    "rubric_high": "5 = Encouraging participation is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 108,
+    "name": "Impracticalness",
+    "category": "Other",
+    "short_description": "Evaluate impracticalness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Impracticalness is absent or barely detectable",
+    "rubric_high": "5 = Impracticalness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 109,
+    "name": "Meeting Deadlines",
+    "category": "Other",
+    "short_description": "Evaluate meeting deadlines as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Meeting Deadlines is absent or barely detectable",
+    "rubric_high": "5 = Meeting Deadlines is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 110,
+    "name": "Data Analysis",
+    "category": "Other",
+    "short_description": "Evaluate data analysis as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Data Analysis is absent or barely detectable",
+    "rubric_high": "5 = Data Analysis is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 111,
+    "name": "Social Interaction Skills",
+    "category": "Social",
+    "short_description": "Evaluate social interaction skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social Interaction Skills is absent or barely detectable",
+    "rubric_high": "5 = Social Interaction Skills is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 112,
+    "name": "Psychoticism",
+    "category": "Personality",
+    "short_description": "Evaluate psychoticism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychoticism is absent or barely detectable",
+    "rubric_high": "5 = Psychoticism is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 113,
+    "name": "Ethical leadership rating",
+    "category": "Leadership",
+    "short_description": "Evaluate ethical leadership rating as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ethical leadership rating is absent or barely detectable",
+    "rubric_high": "5 = Ethical leadership rating is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 114,
+    "name": "Slothfulness",
+    "category": "Other",
+    "short_description": "Evaluate slothfulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Slothfulness is absent or barely detectable",
+    "rubric_high": "5 = Slothfulness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 115,
+    "name": "Happiness",
+    "category": "Emotion",
+    "short_description": "Evaluate happiness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Happiness is absent or barely detectable",
+    "rubric_high": "5 = Happiness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 116,
+    "name": "Contentment Levels",
+    "category": "Emotion",
+    "short_description": "Evaluate contentment levels as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Contentment Levels is absent or barely detectable",
+    "rubric_high": "5 = Contentment Levels is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 117,
+    "name": "Neuroticism",
+    "category": "Personality",
+    "short_description": "Evaluate neuroticism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Neuroticism is absent or barely detectable",
+    "rubric_high": "5 = Neuroticism is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 118,
+    "name": "Desire for excellence",
+    "category": "Other",
+    "short_description": "Evaluate desire for excellence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Desire for excellence is absent or barely detectable",
+    "rubric_high": "5 = Desire for excellence is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 119,
+    "name": "Perceiving",
+    "category": "Other",
+    "short_description": "Evaluate perceiving as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Perceiving is absent or barely detectable",
+    "rubric_high": "5 = Perceiving is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 120,
+    "name": "Liberalism",
+    "category": "Other",
+    "short_description": "Evaluate liberalism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Liberalism is absent or barely detectable",
+    "rubric_high": "5 = Liberalism is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 121,
+    "name": "Inversion comfort level",
+    "category": "Other",
+    "short_description": "Evaluate inversion comfort level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Inversion comfort level is absent or barely detectable",
+    "rubric_high": "5 = Inversion comfort level is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 122,
+    "name": "Affection",
+    "category": "Emotion",
+    "short_description": "Evaluate affection as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Affection is absent or barely detectable",
+    "rubric_high": "5 = Affection is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 123,
+    "name": "Numeric Filing Skills",
+    "category": "Other",
+    "short_description": "Evaluate numeric filing skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Numeric Filing Skills is absent or barely detectable",
+    "rubric_high": "5 = Numeric Filing Skills is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 124,
+    "name": "Martyrdom",
+    "category": "Other",
+    "short_description": "Evaluate martyrdom as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Martyrdom is absent or barely detectable",
+    "rubric_high": "5 = Martyrdom is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 125,
+    "name": "Parathyroid-hormone level",
+    "category": "Health/Bio",
+    "short_description": "Evaluate parathyroid-hormone level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Parathyroid-hormone level is absent or barely detectable",
+    "rubric_high": "5 = Parathyroid-hormone level is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 126,
+    "name": "Seeking approval",
+    "category": "Other",
+    "short_description": "Evaluate seeking approval as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Seeking approval is absent or barely detectable",
+    "rubric_high": "5 = Seeking approval is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 127,
+    "name": "Judging (J)",
+    "category": "Other",
+    "short_description": "Evaluate judging (j) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Judging (J) is absent or barely detectable",
+    "rubric_high": "5 = Judging (J) is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 128,
+    "name": "Big Five facet Openness \u2013 Artistic Interests",
+    "category": "Personality",
+    "short_description": "Evaluate big five facet openness \u2013 artistic interests as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Big Five facet Openness \u2013 Artistic Interests is absent or barely detectable",
+    "rubric_high": "5 = Big Five facet Openness \u2013 Artistic Interests is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 129,
+    "name": "Psychological construct: Operant-Learning rate",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: operant-learning rate as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Operant-Learning rate is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Operant-Learning rate is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 130,
+    "name": "Psychological construct: Need for Achievement level",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: need for achievement level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Need for Achievement level is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Need for Achievement level is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 131,
+    "name": "Cantankerousness",
+    "category": "Other",
+    "short_description": "Evaluate cantankerousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cantankerousness is absent or barely detectable",
+    "rubric_high": "5 = Cantankerousness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 132,
+    "name": "Material properties knowledge",
+    "category": "Other",
+    "short_description": "Evaluate material properties knowledge as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Material properties knowledge is absent or barely detectable",
+    "rubric_high": "5 = Material properties knowledge is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 133,
+    "name": "Hostility",
+    "category": "Safety",
+    "short_description": "Evaluate hostility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hostility is absent or barely detectable",
+    "rubric_high": "5 = Hostility is strongly and clearly present",
+    "group_id": "safety"
+  },
+  {
+    "facet_id": 134,
+    "name": "Independence",
+    "category": "Other",
+    "short_description": "Evaluate independence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Independence is absent or barely detectable",
+    "rubric_high": "5 = Independence is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 135,
+    "name": "Sufi practice: Sufi retreat attendance count",
+    "category": "Spiritual",
+    "short_description": "Evaluate sufi practice: sufi retreat attendance count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sufi practice: Sufi retreat attendance count is absent or barely detectable",
+    "rubric_high": "5 = Sufi practice: Sufi retreat attendance count is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 136,
+    "name": "Chromatin-accessibility score",
+    "category": "Health/Bio",
+    "short_description": "Evaluate chromatin-accessibility score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Chromatin-accessibility score is absent or barely detectable",
+    "rubric_high": "5 = Chromatin-accessibility score is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 137,
+    "name": "Spiritual virtue: Humility practice index",
+    "category": "Spiritual",
+    "short_description": "Evaluate spiritual virtue: humility practice index as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Spiritual virtue: Humility practice index is absent or barely detectable",
+    "rubric_high": "5 = Spiritual virtue: Humility practice index is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 138,
+    "name": "I Ching hexagram 36 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 36 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 36 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 36 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 139,
+    "name": "Well-being component: Engagement",
+    "category": "Other",
+    "short_description": "Evaluate well-being component: engagement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Well-being component: Engagement is absent or barely detectable",
+    "rubric_high": "5 = Well-being component: Engagement is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 140,
+    "name": "Need for social interaction",
+    "category": "Social",
+    "short_description": "Evaluate need for social interaction as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Need for social interaction is absent or barely detectable",
+    "rubric_high": "5 = Need for social interaction is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 141,
+    "name": "Peer-collaboration hours",
+    "category": "Social",
+    "short_description": "Evaluate peer-collaboration hours as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Peer-collaboration hours is absent or barely detectable",
+    "rubric_high": "5 = Peer-collaboration hours is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 142,
+    "name": "Arts and Humanities",
+    "category": "Other",
+    "short_description": "Evaluate arts and humanities as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Arts and Humanities is absent or barely detectable",
+    "rubric_high": "5 = Arts and Humanities is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 143,
+    "name": "Religious practice: Quran khatam cycles per year",
+    "category": "Spiritual",
+    "short_description": "Evaluate religious practice: quran khatam cycles per year as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Religious practice: Quran khatam cycles per year is absent or barely detectable",
+    "rubric_high": "5 = Religious practice: Quran khatam cycles per year is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 144,
+    "name": "Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation",
+    "category": "Spiritual",
+    "short_description": "Evaluate bah\u00e1\u2019\u00ed spiritual metric: ridv\u00e1n festival participation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation is absent or barely detectable",
+    "rubric_high": "5 = Bah\u00e1\u2019\u00ed spiritual metric: Ridv\u00e1n festival participation is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 145,
+    "name": "Compassion",
+    "category": "Other",
+    "short_description": "Evaluate compassion as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Compassion is absent or barely detectable",
+    "rubric_high": "5 = Compassion is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 146,
+    "name": "Information Retention",
+    "category": "Other",
+    "short_description": "Evaluate information retention as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Information Retention is absent or barely detectable",
+    "rubric_high": "5 = Information Retention is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 147,
+    "name": "Eye-contact duration",
+    "category": "Other",
+    "short_description": "Evaluate eye-contact duration as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Eye-contact duration is absent or barely detectable",
+    "rubric_high": "5 = Eye-contact duration is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 148,
+    "name": "Self-righteousness",
+    "category": "Other",
+    "short_description": "Evaluate self-righteousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Self-righteousness is absent or barely detectable",
+    "rubric_high": "5 = Self-righteousness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 149,
+    "name": "General Mood and Attitude",
+    "category": "Emotion",
+    "short_description": "Evaluate general mood and attitude as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = General Mood and Attitude is absent or barely detectable",
+    "rubric_high": "5 = General Mood and Attitude is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 150,
+    "name": "Serotonin transporter availability",
+    "category": "Health/Bio",
+    "short_description": "Evaluate serotonin transporter availability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Serotonin transporter availability is absent or barely detectable",
+    "rubric_high": "5 = Serotonin transporter availability is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 151,
+    "name": "Contribution to Group Goals",
+    "category": "Other",
+    "short_description": "Evaluate contribution to group goals as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Contribution to Group Goals is absent or barely detectable",
+    "rubric_high": "5 = Contribution to Group Goals is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 152,
+    "name": "Dignity",
+    "category": "Other",
+    "short_description": "Evaluate dignity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dignity is absent or barely detectable",
+    "rubric_high": "5 = Dignity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 153,
+    "name": "HEXACO Personality Inventory Facets",
+    "category": "Personality",
+    "short_description": "Evaluate hexaco personality inventory facets as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = HEXACO Personality Inventory Facets is absent or barely detectable",
+    "rubric_high": "5 = HEXACO Personality Inventory Facets is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 154,
+    "name": "Evaluating Solutions",
+    "category": "Other",
+    "short_description": "Evaluate evaluating solutions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Evaluating Solutions is absent or barely detectable",
+    "rubric_high": "5 = Evaluating Solutions is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 155,
+    "name": "Input",
+    "category": "Other",
+    "short_description": "Evaluate input as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Input is absent or barely detectable",
+    "rubric_high": "5 = Input is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 156,
+    "name": "Discreteness",
+    "category": "Other",
+    "short_description": "Evaluate discreteness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Discreteness is absent or barely detectable",
+    "rubric_high": "5 = Discreteness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 157,
+    "name": "Energy-healing practice: Reiki sessions / year",
+    "category": "Spiritual",
+    "short_description": "Evaluate energy-healing practice: reiki sessions / year as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Energy-healing practice: Reiki sessions / year is absent or barely detectable",
+    "rubric_high": "5 = Energy-healing practice: Reiki sessions / year is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 158,
+    "name": "Astrology: Rising sign is Scorpio",
+    "category": "Spiritual",
+    "short_description": "Evaluate astrology: rising sign is scorpio as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Astrology: Rising sign is Scorpio is absent or barely detectable",
+    "rubric_high": "5 = Astrology: Rising sign is Scorpio is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 159,
+    "name": "Character strength: Social Intelligence",
+    "category": "Cognitive",
+    "short_description": "Evaluate character strength: social intelligence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Character strength: Social Intelligence is absent or barely detectable",
+    "rubric_high": "5 = Character strength: Social Intelligence is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 160,
+    "name": "Bravery",
+    "category": "Other",
+    "short_description": "Evaluate bravery as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Bravery is absent or barely detectable",
+    "rubric_high": "5 = Bravery is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 161,
+    "name": "Childhood Experiences",
+    "category": "Other",
+    "short_description": "Evaluate childhood experiences as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Childhood Experiences is absent or barely detectable",
+    "rubric_high": "5 = Childhood Experiences is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 162,
+    "name": "Data-sharing consent level",
+    "category": "Other",
+    "short_description": "Evaluate data-sharing consent level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Data-sharing consent level is absent or barely detectable",
+    "rubric_high": "5 = Data-sharing consent level is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 163,
+    "name": "Vision-check frequency",
+    "category": "Other",
+    "short_description": "Evaluate vision-check frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Vision-check frequency is absent or barely detectable",
+    "rubric_high": "5 = Vision-check frequency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 164,
+    "name": "Physical-violence exposure",
+    "category": "Safety",
+    "short_description": "Evaluate physical-violence exposure as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Physical-violence exposure is absent or barely detectable",
+    "rubric_high": "5 = Physical-violence exposure is strongly and clearly present",
+    "group_id": "safety"
+  },
+  {
+    "facet_id": 165,
+    "name": "Macronutrient ratio: fat",
+    "category": "Health/Bio",
+    "short_description": "Evaluate macronutrient ratio: fat as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Macronutrient ratio: fat is absent or barely detectable",
+    "rubric_high": "5 = Macronutrient ratio: fat is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 166,
+    "name": "Cooking and Culinary Arts",
+    "category": "Other",
+    "short_description": "Evaluate cooking and culinary arts as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cooking and Culinary Arts is absent or barely detectable",
+    "rubric_high": "5 = Cooking and Culinary Arts is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 167,
+    "name": "Language use",
+    "category": "Linguistic",
+    "short_description": "Evaluate language use as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Language use is absent or barely detectable",
+    "rubric_high": "5 = Language use is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 168,
+    "name": "Dance-style mastery diversity",
+    "category": "Other",
+    "short_description": "Evaluate dance-style mastery diversity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dance-style mastery diversity is absent or barely detectable",
+    "rubric_high": "5 = Dance-style mastery diversity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 169,
+    "name": "Satya Adherence",
+    "category": "Spiritual",
+    "short_description": "Evaluate satya adherence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Satya Adherence is absent or barely detectable",
+    "rubric_high": "5 = Satya Adherence is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 170,
+    "name": "Ethnocentrism",
+    "category": "Social",
+    "short_description": "Evaluate ethnocentrism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ethnocentrism is absent or barely detectable",
+    "rubric_high": "5 = Ethnocentrism is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 171,
+    "name": "Emotional Boundaries",
+    "category": "Emotion",
+    "short_description": "Evaluate emotional boundaries as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Emotional Boundaries is absent or barely detectable",
+    "rubric_high": "5 = Emotional Boundaries is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 172,
+    "name": "Creativity in solutions",
+    "category": "Other",
+    "short_description": "Evaluate creativity in solutions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Creativity in solutions is absent or barely detectable",
+    "rubric_high": "5 = Creativity in solutions is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 173,
+    "name": "Psychological construct: Hope scale",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: hope scale as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Hope scale is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Hope scale is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 174,
+    "name": "Practice frequency: Walking meditation",
+    "category": "Spiritual",
+    "short_description": "Evaluate practice frequency: walking meditation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Practice frequency: Walking meditation is absent or barely detectable",
+    "rubric_high": "5 = Practice frequency: Walking meditation is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 175,
+    "name": "Depression (DEP)",
+    "category": "Emotion",
+    "short_description": "Evaluate depression (dep) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Depression (DEP) is absent or barely detectable",
+    "rubric_high": "5 = Depression (DEP) is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 176,
+    "name": "Understanding Mathematical Concepts",
+    "category": "Other",
+    "short_description": "Evaluate understanding mathematical concepts as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Understanding Mathematical Concepts is absent or barely detectable",
+    "rubric_high": "5 = Understanding Mathematical Concepts is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 177,
+    "name": "Hypomania (Ma)",
+    "category": "Other",
+    "short_description": "Evaluate hypomania (ma) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hypomania (Ma) is absent or barely detectable",
+    "rubric_high": "5 = Hypomania (Ma) is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 178,
+    "name": "Goal-Directed Behavior",
+    "category": "Other",
+    "short_description": "Evaluate goal-directed behavior as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Goal-Directed Behavior is absent or barely detectable",
+    "rubric_high": "5 = Goal-Directed Behavior is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 179,
+    "name": "Depth of Emotional Connections",
+    "category": "Emotion",
+    "short_description": "Evaluate depth of emotional connections as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Depth of Emotional Connections is absent or barely detectable",
+    "rubric_high": "5 = Depth of Emotional Connections is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 180,
+    "name": "Binding foundations index",
+    "category": "Other",
+    "short_description": "Evaluate binding foundations index as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Binding foundations index is absent or barely detectable",
+    "rubric_high": "5 = Binding foundations index is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 181,
+    "name": "Ego Dissolution Frequency",
+    "category": "Spiritual",
+    "short_description": "Evaluate ego dissolution frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ego Dissolution Frequency is absent or barely detectable",
+    "rubric_high": "5 = Ego Dissolution Frequency is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 182,
+    "name": "Activator: Turning thoughts into action",
+    "category": "Other",
+    "short_description": "Evaluate activator: turning thoughts into action as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Activator: Turning thoughts into action is absent or barely detectable",
+    "rubric_high": "5 = Activator: Turning thoughts into action is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 183,
+    "name": "Gnostic spiritual metric: Archon meditation frequency",
+    "category": "Spiritual",
+    "short_description": "Evaluate gnostic spiritual metric: archon meditation frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Gnostic spiritual metric: Archon meditation frequency is absent or barely detectable",
+    "rubric_high": "5 = Gnostic spiritual metric: Archon meditation frequency is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 184,
+    "name": "Exemplariness",
+    "category": "Other",
+    "short_description": "Evaluate exemplariness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Exemplariness is absent or barely detectable",
+    "rubric_high": "5 = Exemplariness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 185,
+    "name": "Moral and Ethical Parameters",
+    "category": "Other",
+    "short_description": "Evaluate moral and ethical parameters as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Moral and Ethical Parameters is absent or barely detectable",
+    "rubric_high": "5 = Moral and Ethical Parameters is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 186,
+    "name": "Submission",
+    "category": "Other",
+    "short_description": "Evaluate submission as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Submission is absent or barely detectable",
+    "rubric_high": "5 = Submission is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 187,
+    "name": "Frankness",
+    "category": "Other",
+    "short_description": "Evaluate frankness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Frankness is absent or barely detectable",
+    "rubric_high": "5 = Frankness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 188,
+    "name": "Psychological construct: Psychological Safety climate",
+    "category": "Safety",
+    "short_description": "Evaluate psychological construct: psychological safety climate as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Psychological Safety climate is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Psychological Safety climate is strongly and clearly present",
+    "group_id": "safety"
+  },
+  {
+    "facet_id": 189,
+    "name": "Psychological construct: Self-Compassion total",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: self-compassion total as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Self-Compassion total is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Self-Compassion total is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 190,
+    "name": "Psychological construct: Executive-Function composite",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: executive-function composite as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Executive-Function composite is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Executive-Function composite is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 191,
+    "name": "Rebelliousness",
+    "category": "Personality",
+    "short_description": "Evaluate rebelliousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Rebelliousness is absent or barely detectable",
+    "rubric_high": "5 = Rebelliousness is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 192,
+    "name": "Volunteer Work",
+    "category": "Social",
+    "short_description": "Evaluate volunteer work as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Volunteer Work is absent or barely detectable",
+    "rubric_high": "5 = Volunteer Work is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 193,
+    "name": "Intellect",
+    "category": "Other",
+    "short_description": "Evaluate intellect as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Intellect is absent or barely detectable",
+    "rubric_high": "5 = Intellect is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 194,
+    "name": "Use of Mathematical Formulas",
+    "category": "Other",
+    "short_description": "Evaluate use of mathematical formulas as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Use of Mathematical Formulas is absent or barely detectable",
+    "rubric_high": "5 = Use of Mathematical Formulas is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 195,
+    "name": "Coarseness",
+    "category": "Other",
+    "short_description": "Evaluate coarseness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Coarseness is absent or barely detectable",
+    "rubric_high": "5 = Coarseness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 196,
+    "name": "Behavioral Tendencies and Subcomponents",
+    "category": "Other",
+    "short_description": "Evaluate behavioral tendencies and subcomponents as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Behavioral Tendencies and Subcomponents is absent or barely detectable",
+    "rubric_high": "5 = Behavioral Tendencies and Subcomponents is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 197,
+    "name": "Sensitivity",
+    "category": "Other",
+    "short_description": "Evaluate sensitivity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sensitivity is absent or barely detectable",
+    "rubric_high": "5 = Sensitivity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 198,
+    "name": "Divided Attention Ability",
+    "category": "Cognitive",
+    "short_description": "Evaluate divided attention ability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Divided Attention Ability is absent or barely detectable",
+    "rubric_high": "5 = Divided Attention Ability is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 199,
+    "name": "Psychological construct: Acculturative Stress score",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: acculturative stress score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Acculturative Stress score is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Acculturative Stress score is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 200,
+    "name": "Dauntlessness",
+    "category": "Other",
+    "short_description": "Evaluate dauntlessness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dauntlessness is absent or barely detectable",
+    "rubric_high": "5 = Dauntlessness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 201,
+    "name": "Concreteness",
+    "category": "Other",
+    "short_description": "Evaluate concreteness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Concreteness is absent or barely detectable",
+    "rubric_high": "5 = Concreteness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 202,
+    "name": "Hysteria (Hy)",
+    "category": "Other",
+    "short_description": "Evaluate hysteria (hy) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hysteria (Hy) is absent or barely detectable",
+    "rubric_high": "5 = Hysteria (Hy) is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 203,
+    "name": "Jewish spiritual metric: Sukkot lulav-shaking days",
+    "category": "Spiritual",
+    "short_description": "Evaluate jewish spiritual metric: sukkot lulav-shaking days as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Jewish spiritual metric: Sukkot lulav-shaking days is absent or barely detectable",
+    "rubric_high": "5 = Jewish spiritual metric: Sukkot lulav-shaking days is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 204,
+    "name": "Sentence Structure",
+    "category": "Linguistic",
+    "short_description": "Evaluate sentence structure as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sentence Structure is absent or barely detectable",
+    "rubric_high": "5 = Sentence Structure is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 205,
+    "name": "Esteem Needs",
+    "category": "Other",
+    "short_description": "Evaluate esteem needs as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Esteem Needs is absent or barely detectable",
+    "rubric_high": "5 = Esteem Needs is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 206,
+    "name": "Understanding mechanical concepts",
+    "category": "Other",
+    "short_description": "Evaluate understanding mechanical concepts as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Understanding mechanical concepts is absent or barely detectable",
+    "rubric_high": "5 = Understanding mechanical concepts is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 207,
+    "name": "Auditory Memory Recall",
+    "category": "Cognitive",
+    "short_description": "Evaluate auditory memory recall as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Auditory Memory Recall is absent or barely detectable",
+    "rubric_high": "5 = Auditory Memory Recall is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 208,
+    "name": "Storytelling proficiency",
+    "category": "Linguistic",
+    "short_description": "Evaluate storytelling proficiency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Storytelling proficiency is absent or barely detectable",
+    "rubric_high": "5 = Storytelling proficiency is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 209,
+    "name": "Music-lessons years",
+    "category": "Other",
+    "short_description": "Evaluate music-lessons years as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Music-lessons years is absent or barely detectable",
+    "rubric_high": "5 = Music-lessons years is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 210,
+    "name": "Warmheartedness",
+    "category": "Other",
+    "short_description": "Evaluate warmheartedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Warmheartedness is absent or barely detectable",
+    "rubric_high": "5 = Warmheartedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 211,
+    "name": "Self-effacement",
+    "category": "Other",
+    "short_description": "Evaluate self-effacement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Self-effacement is absent or barely detectable",
+    "rubric_high": "5 = Self-effacement is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 212,
+    "name": "Outspokenness",
+    "category": "Linguistic",
+    "short_description": "Evaluate outspokenness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Outspokenness is absent or barely detectable",
+    "rubric_high": "5 = Outspokenness is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 213,
+    "name": "Sleep-environment temperature",
+    "category": "Health/Bio",
+    "short_description": "Evaluate sleep-environment temperature as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sleep-environment temperature is absent or barely detectable",
+    "rubric_high": "5 = Sleep-environment temperature is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 214,
+    "name": "Comprehension of spoken information",
+    "category": "Cognitive",
+    "short_description": "Evaluate comprehension of spoken information as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Comprehension of spoken information is absent or barely detectable",
+    "rubric_high": "5 = Comprehension of spoken information is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 215,
+    "name": "Blissfulness",
+    "category": "Emotion",
+    "short_description": "Evaluate blissfulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Blissfulness is absent or barely detectable",
+    "rubric_high": "5 = Blissfulness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 216,
+    "name": "Sequential Memory Recall",
+    "category": "Cognitive",
+    "short_description": "Evaluate sequential memory recall as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sequential Memory Recall is absent or barely detectable",
+    "rubric_high": "5 = Sequential Memory Recall is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 217,
+    "name": "Withdrawnness",
+    "category": "Other",
+    "short_description": "Evaluate withdrawnness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Withdrawnness is absent or barely detectable",
+    "rubric_high": "5 = Withdrawnness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 218,
+    "name": "Hindu spiritual metric: Yoga discipline hours / week",
+    "category": "Spiritual",
+    "short_description": "Evaluate hindu spiritual metric: yoga discipline hours / week as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hindu spiritual metric: Yoga discipline hours / week is absent or barely detectable",
+    "rubric_high": "5 = Hindu spiritual metric: Yoga discipline hours / week is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 219,
+    "name": "Conservatism",
+    "category": "Other",
+    "short_description": "Evaluate conservatism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Conservatism is absent or barely detectable",
+    "rubric_high": "5 = Conservatism is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 220,
+    "name": "Adaptability and Flexibility Subcomponents",
+    "category": "Other",
+    "short_description": "Evaluate adaptability and flexibility subcomponents as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Adaptability and Flexibility Subcomponents is absent or barely detectable",
+    "rubric_high": "5 = Adaptability and Flexibility Subcomponents is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 221,
+    "name": "Hindu spiritual metric: Vrata vows observed / year",
+    "category": "Spiritual",
+    "short_description": "Evaluate hindu spiritual metric: vrata vows observed / year as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hindu spiritual metric: Vrata vows observed / year is absent or barely detectable",
+    "rubric_high": "5 = Hindu spiritual metric: Vrata vows observed / year is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 222,
+    "name": "Ardency",
+    "category": "Emotion",
+    "short_description": "Evaluate ardency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ardency is absent or barely detectable",
+    "rubric_high": "5 = Ardency is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 223,
+    "name": "Aesthetic Appreciation",
+    "category": "Other",
+    "short_description": "Evaluate aesthetic appreciation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Aesthetic Appreciation is absent or barely detectable",
+    "rubric_high": "5 = Aesthetic Appreciation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 224,
+    "name": "Transactional Leadership",
+    "category": "Leadership",
+    "short_description": "Evaluate transactional leadership as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Transactional Leadership is absent or barely detectable",
+    "rubric_high": "5 = Transactional Leadership is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 225,
+    "name": "Value orientation: Universalism",
+    "category": "Other",
+    "short_description": "Evaluate value orientation: universalism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Value orientation: Universalism is absent or barely detectable",
+    "rubric_high": "5 = Value orientation: Universalism is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 226,
+    "name": "Perseverance",
+    "category": "Other",
+    "short_description": "Evaluate perseverance as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Perseverance is absent or barely detectable",
+    "rubric_high": "5 = Perseverance is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 227,
+    "name": "Regularity of Self-Reflection",
+    "category": "Other",
+    "short_description": "Evaluate regularity of self-reflection as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Regularity of Self-Reflection is absent or barely detectable",
+    "rubric_high": "5 = Regularity of Self-Reflection is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 228,
+    "name": "Controlling Reactions",
+    "category": "Other",
+    "short_description": "Evaluate controlling reactions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Controlling Reactions is absent or barely detectable",
+    "rubric_high": "5 = Controlling Reactions is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 229,
+    "name": "Psychological construct: Cultural Intelligence \u2013 Behavioral",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: cultural intelligence \u2013 behavioral as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Cultural Intelligence \u2013 Behavioral is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Cultural Intelligence \u2013 Behavioral is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 230,
+    "name": "Metabolic Rate (Low or High)",
+    "category": "Health/Bio",
+    "short_description": "Evaluate metabolic rate (low or high) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Metabolic Rate (Low or High) is absent or barely detectable",
+    "rubric_high": "5 = Metabolic Rate (Low or High) is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 231,
+    "name": "Dietary Habits",
+    "category": "Health/Bio",
+    "short_description": "Evaluate dietary habits as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dietary Habits is absent or barely detectable",
+    "rubric_high": "5 = Dietary Habits is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 232,
+    "name": "Significance: Desire to make an impact",
+    "category": "Other",
+    "short_description": "Evaluate significance: desire to make an impact as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Significance: Desire to make an impact is absent or barely detectable",
+    "rubric_high": "5 = Significance: Desire to make an impact is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 233,
+    "name": "Psychological construct: Resilience-Trait score",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: resilience-trait score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Resilience-Trait score is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Resilience-Trait score is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 234,
+    "name": "Boredom Susceptibility",
+    "category": "Other",
+    "short_description": "Evaluate boredom susceptibility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Boredom Susceptibility is absent or barely detectable",
+    "rubric_high": "5 = Boredom Susceptibility is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 235,
+    "name": "Psychological construct: Consummatory Pleasure scale",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: consummatory pleasure scale as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Consummatory Pleasure scale is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Consummatory Pleasure scale is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 236,
+    "name": "Leadership Styles and Behaviors",
+    "category": "Leadership",
+    "short_description": "Evaluate leadership styles and behaviors as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Leadership Styles and Behaviors is absent or barely detectable",
+    "rubric_high": "5 = Leadership Styles and Behaviors is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 237,
+    "name": "I Ching hexagram 5 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 5 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 5 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 5 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 238,
+    "name": "Macronutrient ratio: carbs",
+    "category": "Health/Bio",
+    "short_description": "Evaluate macronutrient ratio: carbs as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Macronutrient ratio: carbs is absent or barely detectable",
+    "rubric_high": "5 = Macronutrient ratio: carbs is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 239,
+    "name": "Passport-stamps count",
+    "category": "Other",
+    "short_description": "Evaluate passport-stamps count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Passport-stamps count is absent or barely detectable",
+    "rubric_high": "5 = Passport-stamps count is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 240,
+    "name": "Local-food sourcing %",
+    "category": "Other",
+    "short_description": "Evaluate local-food sourcing % as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Local-food sourcing % is absent or barely detectable",
+    "rubric_high": "5 = Local-food sourcing % is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 241,
+    "name": "Patient care orientation",
+    "category": "Other",
+    "short_description": "Evaluate patient care orientation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Patient care orientation is absent or barely detectable",
+    "rubric_high": "5 = Patient care orientation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 242,
+    "name": "Soft-skill training hours",
+    "category": "Other",
+    "short_description": "Evaluate soft-skill training hours as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Soft-skill training hours is absent or barely detectable",
+    "rubric_high": "5 = Soft-skill training hours is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 243,
+    "name": "Graffiti appreciation",
+    "category": "Other",
+    "short_description": "Evaluate graffiti appreciation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Graffiti appreciation is absent or barely detectable",
+    "rubric_high": "5 = Graffiti appreciation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 244,
+    "name": "Preference for Home-Cooked vs Restaurant Meals",
+    "category": "Spiritual",
+    "short_description": "Evaluate preference for home-cooked vs restaurant meals as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Preference for Home-Cooked vs Restaurant Meals is absent or barely detectable",
+    "rubric_high": "5 = Preference for Home-Cooked vs Restaurant Meals is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 245,
+    "name": "Immune-response age",
+    "category": "Health/Bio",
+    "short_description": "Evaluate immune-response age as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Immune-response age is absent or barely detectable",
+    "rubric_high": "5 = Immune-response age is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 246,
+    "name": "Social-cognition variable: Cognitive Empathy",
+    "category": "Social",
+    "short_description": "Evaluate social-cognition variable: cognitive empathy as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social-cognition variable: Cognitive Empathy is absent or barely detectable",
+    "rubric_high": "5 = Social-cognition variable: Cognitive Empathy is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 247,
+    "name": "Kink-interest diversity",
+    "category": "Other",
+    "short_description": "Evaluate kink-interest diversity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Kink-interest diversity is absent or barely detectable",
+    "rubric_high": "5 = Kink-interest diversity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 248,
+    "name": "Adaptability and Flexibility",
+    "category": "Other",
+    "short_description": "Evaluate adaptability and flexibility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Adaptability and Flexibility is absent or barely detectable",
+    "rubric_high": "5 = Adaptability and Flexibility is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 249,
+    "name": "Judging Consequences",
+    "category": "Other",
+    "short_description": "Evaluate judging consequences as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Judging Consequences is absent or barely detectable",
+    "rubric_high": "5 = Judging Consequences is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 250,
+    "name": "Harmfulness",
+    "category": "Safety",
+    "short_description": "Evaluate harmfulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Harmfulness is absent or barely detectable",
+    "rubric_high": "5 = Harmfulness is strongly and clearly present",
+    "group_id": "safety"
+  },
+  {
+    "facet_id": 251,
+    "name": "Affinity",
+    "category": "Other",
+    "short_description": "Evaluate affinity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Affinity is absent or barely detectable",
+    "rubric_high": "5 = Affinity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 252,
+    "name": "Abasement",
+    "category": "Other",
+    "short_description": "Evaluate abasement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Abasement is absent or barely detectable",
+    "rubric_high": "5 = Abasement is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 253,
+    "name": "Chronic pain presence",
+    "category": "Health/Bio",
+    "short_description": "Evaluate chronic pain presence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Chronic pain presence is absent or barely detectable",
+    "rubric_high": "5 = Chronic pain presence is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 254,
+    "name": "Discernment practice hours / week",
+    "category": "Spiritual",
+    "short_description": "Evaluate discernment practice hours / week as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Discernment practice hours / week is absent or barely detectable",
+    "rubric_high": "5 = Discernment practice hours / week is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 255,
+    "name": "Initiative",
+    "category": "Leadership",
+    "short_description": "Evaluate initiative as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Initiative is absent or barely detectable",
+    "rubric_high": "5 = Initiative is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 256,
+    "name": "Courageousness",
+    "category": "Other",
+    "short_description": "Evaluate courageousness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Courageousness is absent or barely detectable",
+    "rubric_high": "5 = Courageousness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 257,
+    "name": "Joyfulness",
+    "category": "Emotion",
+    "short_description": "Evaluate joyfulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Joyfulness is absent or barely detectable",
+    "rubric_high": "5 = Joyfulness is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 258,
+    "name": "Suspicion",
+    "category": "Other",
+    "short_description": "Evaluate suspicion as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Suspicion is absent or barely detectable",
+    "rubric_high": "5 = Suspicion is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 259,
+    "name": "Basophil count",
+    "category": "Health/Bio",
+    "short_description": "Evaluate basophil count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Basophil count is absent or barely detectable",
+    "rubric_high": "5 = Basophil count is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 260,
+    "name": "Attachment avoidance score",
+    "category": "Personality",
+    "short_description": "Evaluate attachment avoidance score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Attachment avoidance score is absent or barely detectable",
+    "rubric_high": "5 = Attachment avoidance score is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 261,
+    "name": "Time Orientation End Points",
+    "category": "Other",
+    "short_description": "Evaluate time orientation end points as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Time Orientation End Points is absent or barely detectable",
+    "rubric_high": "5 = Time Orientation End Points is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 262,
+    "name": "Brazenness",
+    "category": "Other",
+    "short_description": "Evaluate brazenness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Brazenness is absent or barely detectable",
+    "rubric_high": "5 = Brazenness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 263,
+    "name": "Talkativeness",
+    "category": "Linguistic",
+    "short_description": "Evaluate talkativeness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Talkativeness is absent or barely detectable",
+    "rubric_high": "5 = Talkativeness is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 264,
+    "name": "Equitableness",
+    "category": "Other",
+    "short_description": "Evaluate equitableness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Equitableness is absent or barely detectable",
+    "rubric_high": "5 = Equitableness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 265,
+    "name": "Ideas generated/day",
+    "category": "Other",
+    "short_description": "Evaluate ideas generated/day as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ideas generated/day is absent or barely detectable",
+    "rubric_high": "5 = Ideas generated/day is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 266,
+    "name": "Originality",
+    "category": "Other",
+    "short_description": "Evaluate originality as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Originality is absent or barely detectable",
+    "rubric_high": "5 = Originality is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 267,
+    "name": "Fearfulness: Fear of physical dangers",
+    "category": "Emotion",
+    "short_description": "Evaluate fearfulness: fear of physical dangers as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Fearfulness: Fear of physical dangers is absent or barely detectable",
+    "rubric_high": "5 = Fearfulness: Fear of physical dangers is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 268,
+    "name": "Dance rehearsal hours/week",
+    "category": "Other",
+    "short_description": "Evaluate dance rehearsal hours/week as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Dance rehearsal hours/week is absent or barely detectable",
+    "rubric_high": "5 = Dance rehearsal hours/week is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 269,
+    "name": "Practice frequency: Mantra meditation",
+    "category": "Spiritual",
+    "short_description": "Evaluate practice frequency: mantra meditation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Practice frequency: Mantra meditation is absent or barely detectable",
+    "rubric_high": "5 = Practice frequency: Mantra meditation is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 270,
+    "name": "Public-transport km/week",
+    "category": "Other",
+    "short_description": "Evaluate public-transport km/week as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Public-transport km/week is absent or barely detectable",
+    "rubric_high": "5 = Public-transport km/week is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 271,
+    "name": "Social Desirability Bias",
+    "category": "Social",
+    "short_description": "Evaluate social desirability bias as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social Desirability Bias is absent or barely detectable",
+    "rubric_high": "5 = Social Desirability Bias is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 272,
+    "name": "I Ching hexagram 43 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 43 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 43 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 43 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 273,
+    "name": "Disagreeableness",
+    "category": "Other",
+    "short_description": "Evaluate disagreeableness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Disagreeableness is absent or barely detectable",
+    "rubric_high": "5 = Disagreeableness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 274,
+    "name": "Participation in Community Activities",
+    "category": "Social",
+    "short_description": "Evaluate participation in community activities as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Participation in Community Activities is absent or barely detectable",
+    "rubric_high": "5 = Participation in Community Activities is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 275,
+    "name": "Impudence",
+    "category": "Other",
+    "short_description": "Evaluate impudence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Impudence is absent or barely detectable",
+    "rubric_high": "5 = Impudence is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 276,
+    "name": "Analogies",
+    "category": "Other",
+    "short_description": "Evaluate analogies as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Analogies is absent or barely detectable",
+    "rubric_high": "5 = Analogies is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 277,
+    "name": "Clumsiness",
+    "category": "Other",
+    "short_description": "Evaluate clumsiness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Clumsiness is absent or barely detectable",
+    "rubric_high": "5 = Clumsiness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 278,
+    "name": "Tendency Toward Compromise or Confrontation",
+    "category": "Other",
+    "short_description": "Evaluate tendency toward compromise or confrontation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Tendency Toward Compromise or Confrontation is absent or barely detectable",
+    "rubric_high": "5 = Tendency Toward Compromise or Confrontation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 279,
+    "name": "I Ching hexagram 19 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 19 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 19 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 19 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 280,
+    "name": "Robotics-interaction frequency",
+    "category": "Other",
+    "short_description": "Evaluate robotics-interaction frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Robotics-interaction frequency is absent or barely detectable",
+    "rubric_high": "5 = Robotics-interaction frequency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 281,
+    "name": "Casual lifestyle",
+    "category": "Other",
+    "short_description": "Evaluate casual lifestyle as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Casual lifestyle is absent or barely detectable",
+    "rubric_high": "5 = Casual lifestyle is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 282,
+    "name": "Collectedness",
+    "category": "Other",
+    "short_description": "Evaluate collectedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Collectedness is absent or barely detectable",
+    "rubric_high": "5 = Collectedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 283,
+    "name": "Reliance on context",
+    "category": "Other",
+    "short_description": "Evaluate reliance on context as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Reliance on context is absent or barely detectable",
+    "rubric_high": "5 = Reliance on context is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 284,
+    "name": "Delegation skills",
+    "category": "Leadership",
+    "short_description": "Evaluate delegation skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Delegation skills is absent or barely detectable",
+    "rubric_high": "5 = Delegation skills is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 285,
+    "name": "I Ching hexagram 49 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 49 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 49 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 49 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 286,
+    "name": "Managing emotions",
+    "category": "Emotion",
+    "short_description": "Evaluate managing emotions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Managing emotions is absent or barely detectable",
+    "rubric_high": "5 = Managing emotions is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 287,
+    "name": "Scripture memorization verses",
+    "category": "Spiritual",
+    "short_description": "Evaluate scripture memorization verses as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Scripture memorization verses is absent or barely detectable",
+    "rubric_high": "5 = Scripture memorization verses is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 288,
+    "name": "Conventional",
+    "category": "Other",
+    "short_description": "Evaluate conventional as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Conventional is absent or barely detectable",
+    "rubric_high": "5 = Conventional is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 289,
+    "name": "Hindu spiritual metric: Bhagavad-Gita study hours",
+    "category": "Spiritual",
+    "short_description": "Evaluate hindu spiritual metric: bhagavad-gita study hours as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hindu spiritual metric: Bhagavad-Gita study hours is absent or barely detectable",
+    "rubric_high": "5 = Hindu spiritual metric: Bhagavad-Gita study hours is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 290,
+    "name": "Open-source contributions",
+    "category": "Other",
+    "short_description": "Evaluate open-source contributions as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Open-source contributions is absent or barely detectable",
+    "rubric_high": "5 = Open-source contributions is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 291,
+    "name": "Psychological construct: Social Conformity tendency",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: social conformity tendency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Social Conformity tendency is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Social Conformity tendency is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 292,
+    "name": "Individuality",
+    "category": "Personality",
+    "short_description": "Evaluate individuality as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Individuality is absent or barely detectable",
+    "rubric_high": "5 = Individuality is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 293,
+    "name": "I Ching hexagram 22 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 22 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 22 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 22 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 294,
+    "name": "Attachment style: Secure",
+    "category": "Personality",
+    "short_description": "Evaluate attachment style: secure as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Attachment style: Secure is absent or barely detectable",
+    "rubric_high": "5 = Attachment style: Secure is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 295,
+    "name": "Intelligence Quotient (IQ)",
+    "category": "Cognitive",
+    "short_description": "Evaluate intelligence quotient (iq) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Intelligence Quotient (IQ) is absent or barely detectable",
+    "rubric_high": "5 = Intelligence Quotient (IQ) is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 296,
+    "name": "Blog-subscriber count",
+    "category": "Other",
+    "short_description": "Evaluate blog-subscriber count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Blog-subscriber count is absent or barely detectable",
+    "rubric_high": "5 = Blog-subscriber count is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 297,
+    "name": "Non-Verbal Communication Skills",
+    "category": "Linguistic",
+    "short_description": "Evaluate non-verbal communication skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Non-Verbal Communication Skills is absent or barely detectable",
+    "rubric_high": "5 = Non-Verbal Communication Skills is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 298,
+    "name": "Drug-use history",
+    "category": "Linguistic",
+    "short_description": "Evaluate drug-use history as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Drug-use history is absent or barely detectable",
+    "rubric_high": "5 = Drug-use history is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 299,
+    "name": "Commute time/day",
+    "category": "Health/Bio",
+    "short_description": "Evaluate commute time/day as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Commute time/day is absent or barely detectable",
+    "rubric_high": "5 = Commute time/day is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 300,
+    "name": "Decision-making speed",
+    "category": "Cognitive",
+    "short_description": "Evaluate decision-making speed as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Decision-making speed is absent or barely detectable",
+    "rubric_high": "5 = Decision-making speed is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 301,
+    "name": "Psychological construct: Excuse-Making tendency",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: excuse-making tendency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Excuse-Making tendency is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Excuse-Making tendency is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 302,
+    "name": "Peer-to-peer lending usage",
+    "category": "Social",
+    "short_description": "Evaluate peer-to-peer lending usage as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Peer-to-peer lending usage is absent or barely detectable",
+    "rubric_high": "5 = Peer-to-peer lending usage is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 303,
+    "name": "Psychological construct: Eye-Contact avoidance score",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: eye-contact avoidance score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Eye-Contact avoidance score is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Eye-Contact avoidance score is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 304,
+    "name": "Social-cognition variable: Faux Pas Recognition accuracy",
+    "category": "Social",
+    "short_description": "Evaluate social-cognition variable: faux pas recognition accuracy as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social-cognition variable: Faux Pas Recognition accuracy is absent or barely detectable",
+    "rubric_high": "5 = Social-cognition variable: Faux Pas Recognition accuracy is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 305,
+    "name": "Conscientiousness (C)",
+    "category": "Personality",
+    "short_description": "Evaluate conscientiousness (c) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Conscientiousness (C) is absent or barely detectable",
+    "rubric_high": "5 = Conscientiousness (C) is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 306,
+    "name": "Use of Nature as a Stress Reliever",
+    "category": "Other",
+    "short_description": "Evaluate use of nature as a stress reliever as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Use of Nature as a Stress Reliever is absent or barely detectable",
+    "rubric_high": "5 = Use of Nature as a Stress Reliever is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 307,
+    "name": "Attitude toward learning",
+    "category": "Cognitive",
+    "short_description": "Evaluate attitude toward learning as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Attitude toward learning is absent or barely detectable",
+    "rubric_high": "5 = Attitude toward learning is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 308,
+    "name": "Conscientiousness Facets",
+    "category": "Personality",
+    "short_description": "Evaluate conscientiousness facets as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Conscientiousness Facets is absent or barely detectable",
+    "rubric_high": "5 = Conscientiousness Facets is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 309,
+    "name": "Honesty-humility trait score",
+    "category": "Other",
+    "short_description": "Evaluate honesty-humility trait score as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Honesty-humility trait score is absent or barely detectable",
+    "rubric_high": "5 = Honesty-humility trait score is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 310,
+    "name": "Digital-nomad months",
+    "category": "Other",
+    "short_description": "Evaluate digital-nomad months as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Digital-nomad months is absent or barely detectable",
+    "rubric_high": "5 = Digital-nomad months is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 311,
+    "name": "Religious coping \u2013 Negative",
+    "category": "Spiritual",
+    "short_description": "Evaluate religious coping \u2013 negative as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Religious coping \u2013 Negative is absent or barely detectable",
+    "rubric_high": "5 = Religious coping \u2013 Negative is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 312,
+    "name": "Snacking Behavior",
+    "category": "Health/Bio",
+    "short_description": "Evaluate snacking behavior as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Snacking Behavior is absent or barely detectable",
+    "rubric_high": "5 = Snacking Behavior is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 313,
+    "name": "Aura-color perception",
+    "category": "Spiritual",
+    "short_description": "Evaluate aura-color perception as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Aura-color perception is absent or barely detectable",
+    "rubric_high": "5 = Aura-color perception is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 314,
+    "name": "Sacred text engagement: Zohar (Kabbalah) study hours",
+    "category": "Spiritual",
+    "short_description": "Evaluate sacred text engagement: zohar (kabbalah) study hours as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sacred text engagement: Zohar (Kabbalah) study hours is absent or barely detectable",
+    "rubric_high": "5 = Sacred text engagement: Zohar (Kabbalah) study hours is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 315,
+    "name": "Motivational Drivers",
+    "category": "Other",
+    "short_description": "Evaluate motivational drivers as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Motivational Drivers is absent or barely detectable",
+    "rubric_high": "5 = Motivational Drivers is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 316,
+    "name": "Cloud-backup frequency",
+    "category": "Other",
+    "short_description": "Evaluate cloud-backup frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cloud-backup frequency is absent or barely detectable",
+    "rubric_high": "5 = Cloud-backup frequency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 317,
+    "name": "Learning Style",
+    "category": "Cognitive",
+    "short_description": "Evaluate learning style as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Learning Style is absent or barely detectable",
+    "rubric_high": "5 = Learning Style is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 318,
+    "name": "Islamic practice: Seerah study hours",
+    "category": "Spiritual",
+    "short_description": "Evaluate islamic practice: seerah study hours as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Islamic practice: Seerah study hours is absent or barely detectable",
+    "rubric_high": "5 = Islamic practice: Seerah study hours is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 319,
+    "name": "Safety compliance",
+    "category": "Safety",
+    "short_description": "Evaluate safety compliance as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Safety compliance is absent or barely detectable",
+    "rubric_high": "5 = Safety compliance is strongly and clearly present",
+    "group_id": "safety"
+  },
+  {
+    "facet_id": 320,
+    "name": "Sensationalism",
+    "category": "Other",
+    "short_description": "Evaluate sensationalism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sensationalism is absent or barely detectable",
+    "rubric_high": "5 = Sensationalism is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 321,
+    "name": "Nationality",
+    "category": "Social",
+    "short_description": "Evaluate nationality as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Nationality is absent or barely detectable",
+    "rubric_high": "5 = Nationality is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 322,
+    "name": "Drollness",
+    "category": "Other",
+    "short_description": "Evaluate drollness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Drollness is absent or barely detectable",
+    "rubric_high": "5 = Drollness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 323,
+    "name": "Cooperation",
+    "category": "Other",
+    "short_description": "Evaluate cooperation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cooperation is absent or barely detectable",
+    "rubric_high": "5 = Cooperation is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 324,
+    "name": "Breakfast-skipping frequency",
+    "category": "Health/Bio",
+    "short_description": "Evaluate breakfast-skipping frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Breakfast-skipping frequency is absent or barely detectable",
+    "rubric_high": "5 = Breakfast-skipping frequency is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 325,
+    "name": "Sikh spiritual metric: Kirtan participation frequency",
+    "category": "Spiritual",
+    "short_description": "Evaluate sikh spiritual metric: kirtan participation frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sikh spiritual metric: Kirtan participation frequency is absent or barely detectable",
+    "rubric_high": "5 = Sikh spiritual metric: Kirtan participation frequency is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 326,
+    "name": "Impulsivity",
+    "category": "Personality",
+    "short_description": "Evaluate impulsivity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Impulsivity is absent or barely detectable",
+    "rubric_high": "5 = Impulsivity is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 327,
+    "name": "Museum visits/year",
+    "category": "Other",
+    "short_description": "Evaluate museum visits/year as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Museum visits/year is absent or barely detectable",
+    "rubric_high": "5 = Museum visits/year is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 328,
+    "name": "Choir participation years",
+    "category": "Social",
+    "short_description": "Evaluate choir participation years as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Choir participation years is absent or barely detectable",
+    "rubric_high": "5 = Choir participation years is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 329,
+    "name": "Delegation Ability",
+    "category": "Leadership",
+    "short_description": "Evaluate delegation ability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Delegation Ability is absent or barely detectable",
+    "rubric_high": "5 = Delegation Ability is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 330,
+    "name": "Kabbalah sephira balance: Tiferet",
+    "category": "Spiritual",
+    "short_description": "Evaluate kabbalah sephira balance: tiferet as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Kabbalah sephira balance: Tiferet is absent or barely detectable",
+    "rubric_high": "5 = Kabbalah sephira balance: Tiferet is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 331,
+    "name": "Desire to influence others",
+    "category": "Other",
+    "short_description": "Evaluate desire to influence others as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Desire to influence others is absent or barely detectable",
+    "rubric_high": "5 = Desire to influence others is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 332,
+    "name": "Vivacity",
+    "category": "Emotion",
+    "short_description": "Evaluate vivacity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Vivacity is absent or barely detectable",
+    "rubric_high": "5 = Vivacity is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 333,
+    "name": "Genialness",
+    "category": "Other",
+    "short_description": "Evaluate genialness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Genialness is absent or barely detectable",
+    "rubric_high": "5 = Genialness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 334,
+    "name": "Cognitive measure: Working Memory Index",
+    "category": "Cognitive",
+    "short_description": "Evaluate cognitive measure: working memory index as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cognitive measure: Working Memory Index is absent or barely detectable",
+    "rubric_high": "5 = Cognitive measure: Working Memory Index is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 335,
+    "name": "Ethical practices",
+    "category": "Other",
+    "short_description": "Evaluate ethical practices as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Ethical practices is absent or barely detectable",
+    "rubric_high": "5 = Ethical practices is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 336,
+    "name": "New-Age spiritual metric: Channeling sessions / year",
+    "category": "Spiritual",
+    "short_description": "Evaluate new-age spiritual metric: channeling sessions / year as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = New-Age spiritual metric: Channeling sessions / year is absent or barely detectable",
+    "rubric_high": "5 = New-Age spiritual metric: Channeling sessions / year is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 337,
+    "name": "Civility",
+    "category": "Social",
+    "short_description": "Evaluate civility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Civility is absent or barely detectable",
+    "rubric_high": "5 = Civility is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 338,
+    "name": "Sleep Apnea",
+    "category": "Health/Bio",
+    "short_description": "Evaluate sleep apnea as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sleep Apnea is absent or barely detectable",
+    "rubric_high": "5 = Sleep Apnea is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 339,
+    "name": "Classiness",
+    "category": "Other",
+    "short_description": "Evaluate classiness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Classiness is absent or barely detectable",
+    "rubric_high": "5 = Classiness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 340,
+    "name": "Control over situations",
+    "category": "Other",
+    "short_description": "Evaluate control over situations as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Control over situations is absent or barely detectable",
+    "rubric_high": "5 = Control over situations is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 341,
+    "name": "Time outdoors/day (h)",
+    "category": "Other",
+    "short_description": "Evaluate time outdoors/day (h) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Time outdoors/day (h) is absent or barely detectable",
+    "rubric_high": "5 = Time outdoors/day (h) is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 342,
+    "name": "Effeteness",
+    "category": "Other",
+    "short_description": "Evaluate effeteness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Effeteness is absent or barely detectable",
+    "rubric_high": "5 = Effeteness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 343,
+    "name": "Polygenic risk: cardiovascular disease",
+    "category": "Health/Bio",
+    "short_description": "Evaluate polygenic risk: cardiovascular disease as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Polygenic risk: cardiovascular disease is absent or barely detectable",
+    "rubric_high": "5 = Polygenic risk: cardiovascular disease is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 344,
+    "name": "Psychological construct: Identity Diffusion level",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: identity diffusion level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Identity Diffusion level is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Identity Diffusion level is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 345,
+    "name": "Learning through movement",
+    "category": "Cognitive",
+    "short_description": "Evaluate learning through movement as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Learning through movement is absent or barely detectable",
+    "rubric_high": "5 = Learning through movement is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 346,
+    "name": "Caffeine sensitivity gene",
+    "category": "Health/Bio",
+    "short_description": "Evaluate caffeine sensitivity gene as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Caffeine sensitivity gene is absent or barely detectable",
+    "rubric_high": "5 = Caffeine sensitivity gene is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 347,
+    "name": "Hatefulness",
+    "category": "Other",
+    "short_description": "Evaluate hatefulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Hatefulness is absent or barely detectable",
+    "rubric_high": "5 = Hatefulness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 348,
+    "name": "Persistence",
+    "category": "Other",
+    "short_description": "Evaluate persistence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Persistence is absent or barely detectable",
+    "rubric_high": "5 = Persistence is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 349,
+    "name": "Psychological construct: Perfectionistic Strivings",
+    "category": "Cognitive",
+    "short_description": "Evaluate psychological construct: perfectionistic strivings as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Psychological construct: Perfectionistic Strivings is absent or barely detectable",
+    "rubric_high": "5 = Psychological construct: Perfectionistic Strivings is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 350,
+    "name": "Wake-time consistency",
+    "category": "Health/Bio",
+    "short_description": "Evaluate wake-time consistency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Wake-time consistency is absent or barely detectable",
+    "rubric_high": "5 = Wake-time consistency is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 351,
+    "name": "Numerical Reasoning",
+    "category": "Cognitive",
+    "short_description": "Evaluate numerical reasoning as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Numerical Reasoning is absent or barely detectable",
+    "rubric_high": "5 = Numerical Reasoning is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 352,
+    "name": "Social-cognition variable: Mentalizing network activation",
+    "category": "Social",
+    "short_description": "Evaluate social-cognition variable: mentalizing network activation as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Social-cognition variable: Mentalizing network activation is absent or barely detectable",
+    "rubric_high": "5 = Social-cognition variable: Mentalizing network activation is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 353,
+    "name": "Patriotism",
+    "category": "Social",
+    "short_description": "Evaluate patriotism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Patriotism is absent or barely detectable",
+    "rubric_high": "5 = Patriotism is strongly and clearly present",
+    "group_id": "social"
+  },
+  {
+    "facet_id": 354,
+    "name": "Leadership Styles",
+    "category": "Leadership",
+    "short_description": "Evaluate leadership styles as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Leadership Styles is absent or barely detectable",
+    "rubric_high": "5 = Leadership Styles is strongly and clearly present",
+    "group_id": "leadership"
+  },
+  {
+    "facet_id": 355,
+    "name": "Servility",
+    "category": "Other",
+    "short_description": "Evaluate servility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Servility is absent or barely detectable",
+    "rubric_high": "5 = Servility is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 356,
+    "name": "I Ching hexagram 24 resonance level",
+    "category": "Spiritual",
+    "short_description": "Evaluate i ching hexagram 24 resonance level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = I Ching hexagram 24 resonance level is absent or barely detectable",
+    "rubric_high": "5 = I Ching hexagram 24 resonance level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 357,
+    "name": "Enneagram Personality Types",
+    "category": "Personality",
+    "short_description": "Evaluate enneagram personality types as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Enneagram Personality Types is absent or barely detectable",
+    "rubric_high": "5 = Enneagram Personality Types is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 358,
+    "name": "Stress Recovery Ability",
+    "category": "Other",
+    "short_description": "Evaluate stress recovery ability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Stress Recovery Ability is absent or barely detectable",
+    "rubric_high": "5 = Stress Recovery Ability is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 359,
+    "name": "Troubleshooting technical issues",
+    "category": "Other",
+    "short_description": "Evaluate troubleshooting technical issues as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Troubleshooting technical issues is absent or barely detectable",
+    "rubric_high": "5 = Troubleshooting technical issues is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 360,
+    "name": "Defense-mechanism tendency: Introjection",
+    "category": "Other",
+    "short_description": "Evaluate defense-mechanism tendency: introjection as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Defense-mechanism tendency: Introjection is absent or barely detectable",
+    "rubric_high": "5 = Defense-mechanism tendency: Introjection is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 361,
+    "name": "Irritability",
+    "category": "Emotion",
+    "short_description": "Evaluate irritability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Irritability is absent or barely detectable",
+    "rubric_high": "5 = Irritability is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 362,
+    "name": "Travel-companions diversity",
+    "category": "Other",
+    "short_description": "Evaluate travel-companions diversity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Travel-companions diversity is absent or barely detectable",
+    "rubric_high": "5 = Travel-companions diversity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 363,
+    "name": "Sacred text engagement: Quran surahs memorized",
+    "category": "Spiritual",
+    "short_description": "Evaluate sacred text engagement: quran surahs memorized as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sacred text engagement: Quran surahs memorized is absent or barely detectable",
+    "rubric_high": "5 = Sacred text engagement: Quran surahs memorized is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 364,
+    "name": "Trust in others",
+    "category": "Other",
+    "short_description": "Evaluate trust in others as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Trust in others is absent or barely detectable",
+    "rubric_high": "5 = Trust in others is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 365,
+    "name": "Gamified-finance-app usage",
+    "category": "Other",
+    "short_description": "Evaluate gamified-finance-app usage as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Gamified-finance-app usage is absent or barely detectable",
+    "rubric_high": "5 = Gamified-finance-app usage is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 366,
+    "name": "Buddhist practice: Eightfold Path \u2013 Right Intention level",
+    "category": "Spiritual",
+    "short_description": "Evaluate buddhist practice: eightfold path \u2013 right intention level as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Buddhist practice: Eightfold Path \u2013 Right Intention level is absent or barely detectable",
+    "rubric_high": "5 = Buddhist practice: Eightfold Path \u2013 Right Intention level is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 367,
+    "name": "Caffeine intake (mg/day)",
+    "category": "Health/Bio",
+    "short_description": "Evaluate caffeine intake (mg/day) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Caffeine intake (mg/day) is absent or barely detectable",
+    "rubric_high": "5 = Caffeine intake (mg/day) is strongly and clearly present",
+    "group_id": "health_bio"
+  },
+  {
+    "facet_id": 368,
+    "name": "Comfort with Vulnerability",
+    "category": "Other",
+    "short_description": "Evaluate comfort with vulnerability as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Comfort with Vulnerability is absent or barely detectable",
+    "rubric_high": "5 = Comfort with Vulnerability is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 369,
+    "name": "Anticipativeness",
+    "category": "Other",
+    "short_description": "Evaluate anticipativeness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Anticipativeness is absent or barely detectable",
+    "rubric_high": "5 = Anticipativeness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 370,
+    "name": "Additional Common Parameters and Their End Points",
+    "category": "Other",
+    "short_description": "Evaluate additional common parameters and their end points as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Additional Common Parameters and Their End Points is absent or barely detectable",
+    "rubric_high": "5 = Additional Common Parameters and Their End Points is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 371,
+    "name": "Avoiding",
+    "category": "Other",
+    "short_description": "Evaluate avoiding as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Avoiding is absent or barely detectable",
+    "rubric_high": "5 = Avoiding is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 372,
+    "name": "Home-security-system presence",
+    "category": "Other",
+    "short_description": "Evaluate home-security-system presence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Home-security-system presence is absent or barely detectable",
+    "rubric_high": "5 = Home-security-system presence is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 373,
+    "name": "HEXACO domain: Honesty-Humility",
+    "category": "Personality",
+    "short_description": "Evaluate hexaco domain: honesty-humility as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = HEXACO domain: Honesty-Humility is absent or barely detectable",
+    "rubric_high": "5 = HEXACO domain: Honesty-Humility is strongly and clearly present",
+    "group_id": "personality"
+  },
+  {
+    "facet_id": 374,
+    "name": "Eating Habits (Home-Cooked vs. Eating Out)",
+    "category": "Other",
+    "short_description": "Evaluate eating habits (home-cooked vs. eating out) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Eating Habits (Home-Cooked vs. Eating Out) is absent or barely detectable",
+    "rubric_high": "5 = Eating Habits (Home-Cooked vs. Eating Out) is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 375,
+    "name": "Decision-Making Confidence",
+    "category": "Cognitive",
+    "short_description": "Evaluate decision-making confidence as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Decision-Making Confidence is absent or barely detectable",
+    "rubric_high": "5 = Decision-Making Confidence is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 376,
+    "name": "Alignment with societal roles",
+    "category": "Other",
+    "short_description": "Evaluate alignment with societal roles as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Alignment with societal roles is absent or barely detectable",
+    "rubric_high": "5 = Alignment with societal roles is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 377,
+    "name": "Connectedness: Belief in interconnections",
+    "category": "Other",
+    "short_description": "Evaluate connectedness: belief in interconnections as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Connectedness: Belief in interconnections is absent or barely detectable",
+    "rubric_high": "5 = Connectedness: Belief in interconnections is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 378,
+    "name": "Quirkiness",
+    "category": "Other",
+    "short_description": "Evaluate quirkiness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Quirkiness is absent or barely detectable",
+    "rubric_high": "5 = Quirkiness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 379,
+    "name": "Creative resilience",
+    "category": "Psychological",
+    "short_description": "Evaluate creative resilience as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Creative resilience is absent or barely detectable",
+    "rubric_high": "5 = Creative resilience is strongly and clearly present",
+    "group_id": "psychological"
+  },
+  {
+    "facet_id": 380,
+    "name": "Rapid cognitive processing",
+    "category": "Cognitive",
+    "short_description": "Evaluate rapid cognitive processing as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Rapid cognitive processing is absent or barely detectable",
+    "rubric_high": "5 = Rapid cognitive processing is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 381,
+    "name": "Cordiality",
+    "category": "Other",
+    "short_description": "Evaluate cordiality as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Cordiality is absent or barely detectable",
+    "rubric_high": "5 = Cordiality is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 382,
+    "name": "Types of Mindfulness Techniques Used",
+    "category": "Cognitive",
+    "short_description": "Evaluate types of mindfulness techniques used as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Types of Mindfulness Techniques Used is absent or barely detectable",
+    "rubric_high": "5 = Types of Mindfulness Techniques Used is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 383,
+    "name": "Economic reasoning",
+    "category": "Cognitive",
+    "short_description": "Evaluate economic reasoning as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Economic reasoning is absent or barely detectable",
+    "rubric_high": "5 = Economic reasoning is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 384,
+    "name": "Conformity",
+    "category": "Other",
+    "short_description": "Evaluate conformity as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Conformity is absent or barely detectable",
+    "rubric_high": "5 = Conformity is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 385,
+    "name": "Pet-enrichment activities count",
+    "category": "Other",
+    "short_description": "Evaluate pet-enrichment activities count as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Pet-enrichment activities count is absent or barely detectable",
+    "rubric_high": "5 = Pet-enrichment activities count is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 386,
+    "name": "Aestheticism",
+    "category": "Other",
+    "short_description": "Evaluate aestheticism as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Aestheticism is absent or barely detectable",
+    "rubric_high": "5 = Aestheticism is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 387,
+    "name": "Type of Support Preferred (Emotional vs. Practical)",
+    "category": "Emotion",
+    "short_description": "Evaluate type of support preferred (emotional vs. practical) as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Type of Support Preferred (Emotional vs. Practical) is absent or barely detectable",
+    "rubric_high": "5 = Type of Support Preferred (Emotional vs. Practical) is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 388,
+    "name": "Mental Arithmetic Speed",
+    "category": "Cognitive",
+    "short_description": "Evaluate mental arithmetic speed as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Mental Arithmetic Speed is absent or barely detectable",
+    "rubric_high": "5 = Mental Arithmetic Speed is strongly and clearly present",
+    "group_id": "cognitive"
+  },
+  {
+    "facet_id": 389,
+    "name": "Patience: Resistance to anger",
+    "category": "Emotion",
+    "short_description": "Evaluate patience: resistance to anger as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Patience: Resistance to anger is absent or barely detectable",
+    "rubric_high": "5 = Patience: Resistance to anger is strongly and clearly present",
+    "group_id": "emotion"
+  },
+  {
+    "facet_id": 390,
+    "name": "Flawlessness",
+    "category": "Other",
+    "short_description": "Evaluate flawlessness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Flawlessness is absent or barely detectable",
+    "rubric_high": "5 = Flawlessness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 391,
+    "name": "Self-Efficacy",
+    "category": "Psychological",
+    "short_description": "Evaluate self-efficacy as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Self-Efficacy is absent or barely detectable",
+    "rubric_high": "5 = Self-Efficacy is strongly and clearly present",
+    "group_id": "psychological"
+  },
+  {
+    "facet_id": 392,
+    "name": "Computer Skills",
+    "category": "Other",
+    "short_description": "Evaluate computer skills as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Computer Skills is absent or barely detectable",
+    "rubric_high": "5 = Computer Skills is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 393,
+    "name": "Jewish spiritual metric: Shabbat candle-lighting consistency",
+    "category": "Spiritual",
+    "short_description": "Evaluate jewish spiritual metric: shabbat candle-lighting consistency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Jewish spiritual metric: Shabbat candle-lighting consistency is absent or barely detectable",
+    "rubric_high": "5 = Jewish spiritual metric: Shabbat candle-lighting consistency is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 394,
+    "name": "Spelling Accuracy",
+    "category": "Linguistic",
+    "short_description": "Evaluate spelling accuracy as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Spelling Accuracy is absent or barely detectable",
+    "rubric_high": "5 = Spelling Accuracy is strongly and clearly present",
+    "group_id": "linguistic"
+  },
+  {
+    "facet_id": 395,
+    "name": "Sufi practice: Dhikr repetitions / day",
+    "category": "Spiritual",
+    "short_description": "Evaluate sufi practice: dhikr repetitions / day as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Sufi practice: Dhikr repetitions / day is absent or barely detectable",
+    "rubric_high": "5 = Sufi practice: Dhikr repetitions / day is strongly and clearly present",
+    "group_id": "spiritual"
+  },
+  {
+    "facet_id": 396,
+    "name": "Peacefulness",
+    "category": "Other",
+    "short_description": "Evaluate peacefulness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Peacefulness is absent or barely detectable",
+    "rubric_high": "5 = Peacefulness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 397,
+    "name": "Doggedness",
+    "category": "Other",
+    "short_description": "Evaluate doggedness as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Doggedness is absent or barely detectable",
+    "rubric_high": "5 = Doggedness is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 398,
+    "name": "Decency",
+    "category": "Other",
+    "short_description": "Evaluate decency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Decency is absent or barely detectable",
+    "rubric_high": "5 = Decency is strongly and clearly present",
+    "group_id": "other"
+  },
+  {
+    "facet_id": 399,
+    "name": "Processed-food frequency",
+    "category": "Health/Bio",
+    "short_description": "Evaluate processed-food frequency as expressed in the speaker's language, tone, and behavioral signals.",
+    "rubric_low": "1 = Processed-food frequency is absent or barely detectable",
+    "rubric_high": "5 = Processed-food frequency is strongly and clearly present",
+    "group_id": "health_bio"
+  }
+]
