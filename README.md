@@ -29,8 +29,7 @@ conversation-evaluation-benchmark/
 │   └── facets_clean.json        # 399 cleaned + categorised facets
 ├── src/
 │   ├── evaluator.py             # Core batched scoring logic
-│   ├── main.py                  # FastAPI backend
-│   └── models.py                # Model abstraction layer
+│   └── main.py                  # FastAPI backend
 ├── app/
 │   └── streamlit_app.py         # Sample UI
 ├── sample_conversations/        # 50 conversations + scores (Deliverable 3)
