@@ -12,8 +12,6 @@ services:
       - .env
     environment:
       - VLLM_BASE_URL=http://vllm:8000/v1
-    depends_on:
-      - vllm
     restart: on-failure
 
   ui:
@@ -32,7 +30,9 @@ services:
       - ./data:/app/data
       - ./sample_conversations:/app/sample_conversations
 
+  # GPU-only service — start with: docker-compose --profile gpu up --build
   vllm:
+    profiles: ["gpu"]
     image: vllm/vllm-openai:latest
     ports:
       - "8001:8000"
@@ -50,7 +50,6 @@ services:
             - driver: nvidia
               count: all
               capabilities: [gpu]
-    # Remove the deploy section if running on CPU only
 
 volumes:
   huggingface_cache:
