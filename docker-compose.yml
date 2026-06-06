@@ -10,8 +10,6 @@ services:
       - ./sample_conversations:/app/sample_conversations
     env_file:
       - .env
-    environment:
-      - VLLM_BASE_URL=http://vllm:8000/v1
     restart: on-failure
 
   ui:

@@ -64,13 +64,43 @@ with tab1:
     )
     if uploaded:
         try:
-            conversation = json.load(uploaded)
-            st.success(f"Loaded conversation with {len(conversation.get('turns', []))} turns.")
-            with st.expander("Preview conversation"):
-                for i, t in enumerate(conversation.get("turns", [])):
-                    st.markdown(f"**Turn {i+1} [{t['speaker']}]:** {t['text']}")
-        except Exception as e:
+            raw = json.load(uploaded)
+
+            if isinstance(raw, list):
+                if len(raw) > 0 and "text" in raw[0]:
+                    # bare list of turn dicts
+                    raw = {"turns": raw}
+                elif len(raw) > 0:
+                    # list of conversation objects — let user pick one
+                    labels = [
+                        f"#{c.get('conversation_id', i+1)} — {c.get('scenario_type', 'conversation')}"
+                        for i, c in enumerate(raw)
+                    ]
+                    idx = st.selectbox(
+                        f"File has {len(raw)} conversations — pick one:",
+                        range(len(raw)),
+                        format_func=lambda i: labels[i],
+                    )
+                    raw = raw[idx]
+                else:
+                    st.error("Empty JSON list.")
+                    raw = None
+
+            if raw is not None:
+                if isinstance(raw, dict) and "turns" not in raw:
+                    raw = {"turns": [raw]}
+                conversation = raw
+                turns = conversation.get("turns", [])
+                st.success(f"Loaded {len(turns)} turns.")
+                with st.expander("Preview conversation"):
+                    for i, t in enumerate(turns):
+                        spk = t.get("speaker", t.get("role", "?"))
+                        txt = t.get("text", t.get("content", ""))
+                        st.markdown(f"**Turn {i+1} [{spk}]:** {txt}")
+        except json.JSONDecodeError as e:
             st.error(f"Invalid JSON: {e}")
+        except Exception as e:
+            st.error(f"Could not load file: {e}")
 
 with tab2:
     st.markdown("Add turns one by one:")

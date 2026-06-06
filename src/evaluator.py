@@ -104,8 +104,14 @@ def score_batch(
             raw = raw.split("```")[1]
             if raw.startswith("json"):
                 raw = raw[4:]
+        raw = raw.strip()
 
-        results = json.loads(raw)
+        # Parse JSON — fall back to ast.literal_eval for models that use single quotes
+        try:
+            results = json.loads(raw)
+        except json.JSONDecodeError:
+            import ast
+            results = ast.literal_eval(raw)
         # Validate and clamp values
         validated = []
         for item in results:
